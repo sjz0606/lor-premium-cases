@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Библиотека клинических случаев — ЛОР-хирург Фозилхон Усмонхонов · ЛОР – PREMIUM</title>
+<meta name="description" content="Концепт сайта ЛОР-хирурга Фозилхона Усмонхонова (ЛОР – PREMIUM, Ташкент): библиотека клинических случаев.">
+<meta name="theme-color" content="#F3F6F7">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%2714%27 fill=%27%230A8E9A%27/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap&subset=cyrillic,latin-ext" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preload" as="fetch" href="data/cases.json" crossorigin>
+</head>
+<body>
+<a class="skip" href="#library" data-i18n="skip">К содержанию</a>
+
+<header class="bar" id="top">
+  <a class="brand" href="#top" aria-label="ЛОР – PREMIUM">
+    <span class="brand-mark" aria-hidden="true"><i></i><i></i></span>
+    <span class="brand-txt"><b data-i18n="brand.name">ЛОР – PREMIUM</b><small data-i18n="brand.sub">ЛОР-хирург · Ташкент</small></span>
+  </a>
+  <nav class="nav" aria-label="Разделы">
+    <a href="#library" data-i18n="nav.cases">Случаи</a>
+    <a href="#map" data-i18n="nav.map">Карта</a>
+    <a href="#doctor" data-i18n="nav.doctor">Врач</a>
+    <a href="#stories" data-i18n="nav.stories">Истории</a>
+  </nav>
+  <div class="bar-end">
+    <div class="lang" role="group" aria-label="Язык / Til">
+      <button type="button" data-lang="ru" aria-pressed="true">RU</button>
+      <button type="button" data-lang="uz" aria-pressed="false">UZ</button>
+    </div>
+    <a class="btn btn-ghost bar-call" href="tel:+998946511163" aria-label="+998 94 651-11-63"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z"/></svg><span>+998 94 651-11-63</span></a>
+    <a class="btn btn-teal" href="#book" data-i18n="cta.book">Записаться</a>
+  </div>
+</header>
+
+<main>
+<!-- ============ HERO: reel stack ============ -->
+<section class="hero" id="reel" aria-labelledby="hero-title">
+  <div class="hero-panel">
+    <h1 id="hero-title" data-i18n="hero.title">Клинические случаи ЛОР-хирурга Фозилхона Усмонхонова</h1>
+    <p class="hero-lead" data-i18n="hero.lead">Ухо, нос, горло, основание черепа. Каждый случай разобран по шагам: жалоба, диагноз, что сделано — по публикациям врача.</p>
+    <label class="search">
+      <span class="sr" data-i18n="hero.searchLabel">Поиск по библиотеке случаев</span>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" data-i18n-ph="hero.search" placeholder="Поиск">
+      <kbd>/</kbd>
+    </label>
+    <div class="chips" id="chips" role="toolbar" aria-label="Фильтр"></div>
+    <p class="count mono" id="count" aria-live="polite"></p>
+    <article class="now" id="now" aria-live="polite"></article>
+  </div>
+
+  <div class="stage" id="stage">
+    <div class="stage-gl" id="stage-gl" aria-hidden="true"></div>
+    <div class="stage-fallback" id="stage-fb" hidden></div>
+    <div class="stage-empty" id="stage-empty" hidden>
+      <p data-i18n="hero.novideo">Для этого фильтра видео нет.</p>
+      <a class="btn btn-ghost" href="#library" data-i18n="hero.toLib">Смотреть в библиотеке</a>
+    </div>
+    <div class="stage-ui">
+      <button class="nav-btn prev" type="button" id="prev" data-i18n-aria="hero.prev" aria-label="Предыдущий случай"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 5-7 7 7 7"/></svg></button>
+      <button class="nav-btn next" type="button" id="next" data-i18n-aria="hero.next" aria-label="Следующий случай"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 7 7-7 7"/></svg></button>
+      <div class="dots" id="dots" aria-hidden="true"></div>
+    </div>
+    <!-- mobile overlay (TikTok-like) -->
+    <div class="m-top">
+      <div class="chips chips-m" id="chips-m" role="toolbar" aria-label="Фильтр"></div>
+    </div>
+    <div class="m-info" id="m-info"></div>
+  </div>
+  <a class="m-down" href="#library"><span data-i18n="hero.all">Вся библиотека</span> <span class="mono" id="m-count"></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></a>
+</section>
+
+<!-- ============ LIBRARY ============ -->
+<section class="sec library" id="library" aria-labelledby="lib-title">
+  <div class="sec-head">
+    <h2 id="lib-title" data-i18n="lib.title">Все случаи</h2>
+    <p data-i18n="lib.lead">Фильтр и поиск работают для всей библиотеки.</p>
+  </div>
+  <div class="lib-tools">
+    <div class="chips" id="chips-lib" role="toolbar" aria-label="Фильтр"></div>
+    <p class="count mono" id="count-lib" aria-live="polite"></p>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div class="lib-foot">
+    <button class="btn btn-ghost" id="more" type="button" data-i18n="lib.more">Показать ещё</button>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="sec map" id="map" aria-labelledby="map-title">
+  <div class="sec-head">
+    <h2 id="map-title" data-i18n="map.title">Карта случаев</h2>
+    <p data-i18n="map.lead">Сколько разобранных случаев в библиотеке.</p>
+  </div>
+  <div class="map-grid">
+    <div class="map-areas">
+      <h3 data-i18n="map.areas">По областям</h3>
+      <div id="areas"></div>
+      <h3 data-i18n="map.origins">Откуда пациенты</h3>
+      <div id="origins"></div>
+    </div>
+    <div class="map-tags">
+      <h3 data-i18n="map.tags">По состояниям</h3>
+      <div id="tags"></div>
+    </div>
+  </div>
+  <p class="fine" data-i18n="map.note">Счёт ведётся по опубликованным разборам.</p>
+</section>
+
+<!-- ============ DOCTOR ============ -->
+<section class="sec doctor" id="doctor" aria-labelledby="doc-title">
+  <figure class="doc-photo tilt">
+    <img src="media/vp/Dc6PAlkO039_1.jpg" alt="Фозилхон Усмонхонов" loading="lazy" width="720" height="1280">
+  </figure>
+  <div class="doc-body">
+    <h2 id="doc-title" data-i18n="doc.title">Врач</h2>
+    <p class="doc-name" data-i18n="doc.name">Усмонхонов Фозилхон Одилхонович</p>
+    <p data-i18n="doc.role"></p>
+    <p data-i18n="doc.p1"></p>
+    <p data-i18n="doc.p2"></p>
+    <h3 data-i18n="doc.bg">Подготовка и опыт</h3>
+    <ul class="bg-list">
+      <li data-i18n="doc.b1"></li><li data-i18n="doc.b2"></li><li data-i18n="doc.b3"></li>
+      <li data-i18n="doc.b4"></li><li data-i18n="doc.b5"></li><li data-i18n="doc.b6"></li>
+    </ul>
+    <div class="doc-strip">
+      <button type="button" class="shot" data-lb="media/hl/about_01.jpg"><img src="media/hl/about_01.jpg" alt="" loading="lazy"><span data-i18n="doc.cap1"></span></button>
+      <button type="button" class="shot" data-lb="media/hl/about_04.jpg"><img src="media/hl/about_04.jpg" alt="" loading="lazy"><span data-i18n="doc.cap2"></span></button>
+      <button type="button" class="shot" data-lb="media/hl/about_07.jpg"><img src="media/hl/about_07.jpg" alt="" loading="lazy"><span data-i18n="doc.cap3"></span></button>
+      <button type="button" class="shot" data-lb="media/hl/about_22.jpg"><img src="media/hl/about_22.jpg" alt="" loading="lazy"><span data-i18n="doc.cap4"></span></button>
+      <button type="button" class="shot" data-lb="media/hl/about_38.jpg"><img src="media/hl/about_38.jpg" alt="" loading="lazy"><span data-i18n="doc.cap5"></span></button>
+    </div>
+  </div>
+</section>
+
+<!-- ============ NEWS ============ -->
+<section class="sec news" id="news" aria-labelledby="news-title">
+  <div class="sec-head">
+    <h2 id="news-title" data-i18n="news.title">Стажировки и события</h2>
+    <p data-i18n="news.lead"></p>
+  </div>
+  <div class="news-track" id="news-track" tabindex="0"></div>
+</section>
+
+<!-- ============ STORIES ============ -->
+<section class="sec stories" id="stories" aria-labelledby="st-title">
+  <div class="sec-head">
+    <h2 id="st-title" data-i18n="st.title">Истории пациентов</h2>
+    <p data-i18n="st.lead"></p>
+    <p class="consent" data-i18n="st.consent"></p>
+  </div>
+  <div class="masonry" id="masonry"></div>
+</section>
+
+<!-- ============ BOOKING ============ -->
+<section class="sec book" id="book" aria-labelledby="book-title">
+  <div class="book-intro">
+    <h2 id="book-title" data-i18n="book.title">Запись на консультацию</h2>
+    <p data-i18n="book.lead"></p>
+    <p class="where" data-i18n="book.where">Ташкент · адрес и время приёма — при записи</p>
+    <p class="foreign" data-i18n="book.foreign"></p>
+  </div>
+  <form class="composer" id="composer" novalidate>
+    <div class="row2">
+      <label class="field"><span data-i18n="f.name">Имя</span><input name="name" autocomplete="name" data-i18n-ph="f.namePh"></label>
+      <label class="field"><span data-i18n="f.phone">Телефон</span><input name="phone" type="tel" autocomplete="tel" inputmode="tel" data-i18n-ph="f.phonePh"></label>
+    </div>
+    <label class="field"><span data-i18n="f.city">Город / страна</span><input name="city" autocomplete="address-level2" data-i18n-ph="f.cityPh"></label>
+    <fieldset class="field seg" id="seg-area">
+      <legend data-i18n="f.area">Что беспокоит</legend>
+      <label><input type="radio" name="area" value="ear"><span data-i18n="f.ear">Ухо</span></label>
+      <label><input type="radio" name="area" value="nose"><span data-i18n="f.nose">Нос</span></label>
+      <label><input type="radio" name="area" value="throat"><span data-i18n="f.throat">Горло</span></label>
+      <label><input type="radio" name="area" value="child"><span data-i18n="f.child">Ребёнок</span></label>
+      <label><input type="radio" name="area" value="other"><span data-i18n="f.other">Другое</span></label>
+    </fieldset>
+    <div class="field case-ref" id="case-ref" hidden>
+      <span data-i18n="f.case">Похожий случай</span>
+      <div class="case-pill"><b class="mono" id="case-ref-id"></b><span id="case-ref-t"></span><button type="button" id="case-ref-x" data-i18n="f.clearCase">Убрать</button></div>
+    </div>
+    <label class="field"><span data-i18n="f.desc">Коротко о проблеме</span><textarea name="desc" rows="3" data-i18n-ph="f.descPh"></textarea></label>
+    <fieldset class="field seg" id="seg-contact">
+      <legend data-i18n="f.contact">Как связаться</legend>
+      <label><input type="radio" name="contact" value="call" checked><span data-i18n="f.c.call">Звонок</span></label>
+      <label><input type="radio" name="contact" value="ig"><span data-i18n="f.c.ig">Instagram Direct</span></label>
+      <label><input type="radio" name="contact" value="tg"><span data-i18n="f.c.tg">Telegram</span></label>
+      <label><input type="radio" name="contact" value="wa"><span data-i18n="f.c.wa">WhatsApp</span></label>
+    </fieldset>
+    <div class="preview">
+      <span class="preview-h" data-i18n="book.preview">Ваше сообщение</span>
+      <pre id="msg" aria-live="polite"></pre>
+    </div>
+    <div class="actions">
+      <a class="btn btn-teal" href="tel:+998946511163" data-i18n="book.call">Позвонить +998 94 651-11-63</a>
+      <button class="btn btn-ghost" type="button" id="copy" data-i18n="book.copy">Скопировать текст</button>
+      <a class="btn btn-ghost" id="ig" href="https://ig.me/m/dr.fozilkhon" target="_blank" rel="noopener" data-i18n="book.ig">Открыть Instagram Direct</a>
+    </div>
+    <p class="fine" data-i18n="book.igNote"></p>
+    <p class="toast" id="toast" role="status" aria-live="polite"></p>
+  </form>
+</section>
+</main>
+
+<footer class="foot">
+  <p class="disc" data-i18n="foot.disc">Имеются противопоказания. Необходима консультация специалиста.</p>
+  <p data-i18n="foot.consent"></p>
+  <p data-i18n="foot.src"></p>
+  <div class="foot-row">
+    <span><b data-i18n="brand.name">ЛОР – PREMIUM</b> · <a href="tel:+998946511163">+998 94 651-11-63</a> · <a href="https://www.instagram.com/dr.fozilkhon/" target="_blank" rel="noopener">@dr.fozilkhon</a></span>
+    <span class="concept" data-i18n="foot.concept">Концепт сайта · Lumagen</span>
+  </div>
+</footer>
+
+<!-- Case viewer -->
+<div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-labelledby="v-title" hidden>
+  <div class="viewer-scrim" data-close></div>
+  <div class="sheet" id="sheet">
+    <button class="v-close" type="button" data-close data-i18n-aria="v.close" aria-label="Закрыть"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <div class="v-media" id="v-media"></div>
+    <div class="v-body" id="v-body"></div>
+  </div>
+</div>
+
+<!-- Lightbox -->
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Просмотр">
+  <button class="v-close" type="button" id="lb-x" data-i18n-aria="lb.close" aria-label="Закрыть"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  <img id="lb-img" alt="">
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

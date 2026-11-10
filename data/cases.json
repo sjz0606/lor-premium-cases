@@ -1,0 +1,5162 @@
+{
+ "generated": "2026-11-09",
+ "source": "Instagram @dr.fozilkhon captions, rewritten neutrally",
+ "areas": {
+  "ear": {
+   "ru": "Ухо",
+   "uz": "Quloq"
+  },
+  "nose": {
+   "ru": "Нос и пазухи",
+   "uz": "Burun va boʻshliqlar"
+  },
+  "throat": {
+   "ru": "Горло",
+   "uz": "Tomoq"
+  },
+  "kids": {
+   "ru": "Детское",
+   "uz": "Bolalar"
+  },
+  "skull": {
+   "ru": "Основание черепа",
+   "uz": "Kalla asosi"
+  }
+ },
+ "tags": {
+  "skull_tumor": {
+   "area": "skull",
+   "ru": "Опухоль основания черепа",
+   "uz": "Kalla asosi oʻsmasi"
+  },
+  "nasal_tumor": {
+   "area": "nose",
+   "ru": "Новообразование полости носа",
+   "uz": "Burun boʻshligʻi oʻsmasi"
+  },
+  "papilloma": {
+   "area": "nose",
+   "ru": "Инвертированная папиллома",
+   "uz": "Invertlangan papilloma"
+  },
+  "adenoids": {
+   "area": "kids",
+   "ru": "Аденоиды",
+   "uz": "Adenoidlar"
+  },
+  "tonsillitis": {
+   "area": "throat",
+   "ru": "Хронический тонзиллит",
+   "uz": "Surunkali tonzillit"
+  },
+  "foreign_body": {
+   "area": "nose",
+   "ru": "Инородное тело пазухи",
+   "uz": "Burun boʻshligʻidagi yot jism"
+  },
+  "septal_perf": {
+   "area": "nose",
+   "ru": "Перфорация перегородки носа",
+   "uz": "Burun toʻsigʻi teshilishi"
+  },
+  "polyps": {
+   "area": "nose",
+   "ru": "Полипы носа",
+   "uz": "Burun poliplari"
+  },
+  "septum": {
+   "area": "nose",
+   "ru": "Искривление перегородки носа",
+   "uz": "Burun toʻsigʻi qiyshiqligi"
+  },
+  "sinusitis": {
+   "area": "nose",
+   "ru": "Хронический гайморит",
+   "uz": "Surunkali gaymorit"
+  },
+  "nasal_obstruction": {
+   "area": "nose",
+   "ru": "Хроническая заложенность носа",
+   "uz": "Surunkali burun bitishi"
+  },
+  "congenital": {
+   "area": "ear",
+   "ru": "Врождённая аномалия уха",
+   "uz": "Quloqning tugʻma nuqsoni"
+  },
+  "cholesteatoma": {
+   "area": "ear",
+   "ru": "Холестеатома",
+   "uz": "Xolesteatoma"
+  },
+  "atresia": {
+   "area": "ear",
+   "ru": "Атрезия слухового прохода",
+   "uz": "Eshitish yoʻli atreziyasi"
+  },
+  "ear_mass": {
+   "area": "ear",
+   "ru": "Образование среднего уха",
+   "uz": "Oʻrta quloq hosilasi"
+  },
+  "otosclerosis": {
+   "area": "ear",
+   "ru": "Отосклероз",
+   "uz": "Otoskleroz"
+  },
+  "tympanosclerosis": {
+   "area": "ear",
+   "ru": "Тимпаносклероз",
+   "uz": "Timpanoskleroz"
+  },
+  "mixed_hl": {
+   "area": "ear",
+   "ru": "Смешанная тугоухость",
+   "uz": "Aralash eshitish pasayishi"
+  },
+  "perforation": {
+   "area": "ear",
+   "ru": "Перфорация барабанной перепонки",
+   "uz": "Nogʻora parda teshilishi"
+  },
+  "ossicular": {
+   "area": "ear",
+   "ru": "Повреждение слуховых косточек",
+   "uz": "Eshitish suyakchalari shikasti"
+  },
+  "mskt": {
+   "area": "ear",
+   "ru": "МСКТ и выбор доступа",
+   "uz": "MSKT va kirish yoʻlini tanlash"
+  },
+  "ear_other": {
+   "area": "ear",
+   "ru": "Снижение слуха",
+   "uz": "Eshitish pasayishi"
+  }
+ },
+ "origins": {
+  "kz": {
+   "ru": "Казахстан",
+   "uz": "Qozogʻiston"
+  },
+  "tj": {
+   "ru": "Таджикистан",
+   "uz": "Tojikiston"
+  },
+  "kg": {
+   "ru": "Кыргызстан",
+   "uz": "Qirgʻiziston"
+  },
+  "ru": {
+   "ru": "Россия",
+   "uz": "Rossiya"
+  },
+  "kk": {
+   "ru": "Каракалпакстан",
+   "uz": "Qoraqalpogʻiston"
+  },
+  "khorezm": {
+   "ru": "Хорезм",
+   "uz": "Xorazm"
+  },
+  "namangan": {
+   "ru": "Наманган",
+   "uz": "Namangan"
+  }
+ },
+ "cases": [
+  {
+   "code": "DemYaVMRct3",
+   "date": "2026-10-17",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, затруднённое носовое дыхание, выделения из носа.",
+     "uz": "Bosh ogʻriqlari, burun orqali nafas olish qiyinligi, burundan ajralma."
+    },
+    "diagnosis": {
+     "ru": "Инородное тело верхнечелюстной (гайморовой) пазухи.",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida yot jism."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела через полость носа.",
+     "uz": "Yot jism endoskopik usulda olib tashlandi burun boʻshligʻi orqali."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DemYaVMRct3.jpg",
+   "thumb": "img/t/DemYaVMRct3.jpg",
+   "ig": "https://www.instagram.com/p/DemYaVMRct3/",
+   "id": "LP-121"
+  },
+  {
+   "code": "DejxSUJxDBy",
+   "date": "2026-10-16",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика, оба уха",
+    "uz": "stapedoplastika, ikkala quloq"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "both_ears"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, шум в ушах.",
+     "uz": "Eshitish pasayishi, quloqda shovqin."
+    },
+    "diagnosis": {
+     "ru": "Двусторонний отосклероз.",
+     "uz": "Ikki tomonlama otoskleroz."
+    },
+    "done": {
+     "ru": "Поэтапные операции на обоих ушах с установкой титановых протезов.",
+     "uz": "Ikkala quloqda bosqichma-bosqich operatsiyalar, titan protezlar oʻrnatildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DejxSUJxDBy.jpg",
+   "thumb": "img/t/DejxSUJxDBy.jpg",
+   "ig": "https://www.instagram.com/p/DejxSUJxDBy/",
+   "id": "LP-120"
+  },
+  {
+   "code": "DedlSCfxS3i",
+   "date": "2026-10-14",
+   "area": "ear",
+   "tag": "mixed_hl",
+   "title": {
+    "ru": "Смешанная тугоухость",
+    "uz": "Aralash eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "ревизия и слуховой протез",
+    "uz": "reviziya va eshitish protezi"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Смешанная тугоухость III степени.",
+     "uz": "Aralash eshitish pasayishi (III daraja)."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости; установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora boʻshligʻi reviziyasi; eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DedlSCfxS3i.jpg",
+   "thumb": "img/t/DedlSCfxS3i.jpg",
+   "ig": "https://www.instagram.com/p/DedlSCfxS3i/",
+   "id": "LP-119"
+  },
+  {
+   "code": "DeZdAK8xSkr",
+   "date": "2026-10-12",
+   "area": "ear",
+   "tag": "congenital",
+   "title": {
+    "ru": "Врождённая аномалия уха",
+    "uz": "Quloqning tugʻma nuqsoni"
+   },
+   "proc": {
+    "ru": "фенестрация и протез",
+    "uz": "fenestratsiya va protez"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Врождённый порок развития среднего уха — отсутствие слуховых косточек.",
+     "uz": "Oʻrta quloqning tugʻma nuqsoni — eshitish suyakchalari yoʻq."
+    },
+    "done": {
+     "ru": "Фенестрация с формированием овального окна и установкой слухового протеза.",
+     "uz": "Oval darcha shakllantirilib fenestratsiya, eshitish protezi oʻrnatildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DeZdAK8xSkr.jpg",
+   "thumb": "img/t/DeZdAK8xSkr.jpg",
+   "ig": "https://www.instagram.com/p/DeZdAK8xSkr/",
+   "id": "LP-118"
+  },
+  {
+   "code": "DeRx-eYR-jQ",
+   "date": "2026-10-09",
+   "area": "ear",
+   "tag": "tympanosclerosis",
+   "title": {
+    "ru": "Тимпаносклероз",
+    "uz": "Timpanoskleroz"
+   },
+   "proc": {
+    "ru": "реконструкция среднего уха",
+    "uz": "oʻrta quloq rekonstruksiyasi"
+   },
+   "origin": {
+    "ru": "Каракалпакстан",
+    "uz": "Qoraqalpogʻiston",
+    "key": "kk"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Тимпаносклероз — рубцовые изменения среднего уха.",
+     "uz": "Timpanoskleroz — oʻrta quloqdagi chandiqli oʻzgarishlar."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DeRx-eYR-jQ.jpg",
+   "thumb": "img/t/DeRx-eYR-jQ.jpg",
+   "ig": "https://www.instagram.com/p/DeRx-eYR-jQ/",
+   "id": "LP-117"
+  },
+  {
+   "code": "DeM2HgaxYxF",
+   "date": "2026-10-07",
+   "area": "nose",
+   "tag": "papilloma",
+   "title": {
+    "ru": "Инвертированная папиллома",
+    "uz": "Invertlangan papilloma"
+   },
+   "proc": {
+    "ru": "удаление новообразования",
+    "uz": "oʻsmani olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Одностороннее затруднение носового дыхания.",
+     "uz": "Bir tomonlama burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Инвертированная папиллома полости носа.",
+     "uz": "Burun boʻshligʻining invertlangan papillomasi."
+    },
+    "done": {
+     "ru": "Новообразование удалено в пределах здоровых тканей.",
+     "uz": "Oʻsma sogʻlom toʻqimalar chegarasida olib tashlandi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациентка отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DeM2HgaxYxF.jpg",
+   "thumb": "img/t/DeM2HgaxYxF.jpg",
+   "ig": "https://www.instagram.com/p/DeM2HgaxYxF/",
+   "id": "LP-116"
+  },
+  {
+   "code": "DeKKgw4x9jS",
+   "date": "2026-10-06",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, заложенность уха, головные боли.",
+     "uz": "Eshitish pasayishi, quloq bitishi, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха.",
+     "uz": "Oʻrta quloq xolesteatomasi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена; тимпанопластика.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi; timpanoplastika."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DeKKgw4x9jS.jpg",
+   "thumb": "img/t/DeKKgw4x9jS.jpg",
+   "ig": "https://www.instagram.com/p/DeKKgw4x9jS/",
+   "id": "LP-115"
+  },
+  {
+   "code": "DeCdwnZi2Lf",
+   "date": "2026-10-03",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "оссикулопластика",
+    "uz": "ossikuloplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DeCdwnZi2Lf.jpg",
+   "thumb": "img/t/DeCdwnZi2Lf.jpg",
+   "ig": "https://www.instagram.com/p/DeCdwnZi2Lf/",
+   "id": "LP-114"
+  },
+  {
+   "code": "Dd5iN8zxxWE",
+   "date": "2026-09-30",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": {
+    "key": "kz",
+    "ru": "Тараз, Казахстан",
+    "uz": "Taraz, Qozogʻiston"
+   },
+   "age": null,
+   "flags": [
+    "both_ears"
+   ],
+   "steps": {
+    "note": {
+     "ru": "Первое ухо прооперировано ранее; теперь — этап на втором ухе.",
+     "uz": "Birinchi quloq avvalroq operatsiya qilingan; endi — ikkinchi quloq bosqichi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dd5iN8zxxWE.jpg",
+   "thumb": "img/t/Dd5iN8zxxWE.jpg",
+   "ig": "https://www.instagram.com/p/Dd5iN8zxxWE/",
+   "id": "LP-113"
+  },
+  {
+   "code": "Dd29bJaRIyi",
+   "date": "2026-09-29",
+   "area": "nose",
+   "tag": "nasal_obstruction",
+   "title": {
+    "ru": "Хроническая заложенность носа",
+    "uz": "Surunkali burun bitishi"
+   },
+   "proc": {
+    "ru": "восстановление носового дыхания",
+    "uz": "burun nafasini tiklash"
+   },
+   "origin": {
+    "ru": "Хорезм",
+    "uz": "Xorazm",
+    "key": "khorezm"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Постоянная заложенность носа, постоянное использование сосудосуживающих спреев.",
+     "uz": "Doimiy burun bitishi, tomir toraytiruvchi spreylardan doimiy foydalanish."
+    },
+    "diagnosis": {
+     "ru": "Хроническое нарушение носового дыхания (по данным эндоскопии).",
+     "uz": "Surunkali burun orqali nafas buzilishi (endoskopiya maʼlumotlariga koʻra)."
+    },
+    "done": {
+     "ru": "Эндоскопическое обследование и хирургическое восстановление носового дыхания.",
+     "uz": "Endoskopik tekshiruv va burun orqali nafasni jarrohlik yoʻli bilan tiklash."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациентка отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dd29bJaRIyi.jpg",
+   "thumb": "img/t/Dd29bJaRIyi.jpg",
+   "ig": "https://www.instagram.com/p/Dd29bJaRIyi/",
+   "id": "LP-112"
+  },
+  {
+   "code": "Ddy_TTtR77Y",
+   "date": "2026-09-27",
+   "area": "ear",
+   "tag": "ear_mass",
+   "title": {
+    "ru": "Образование среднего уха",
+    "uz": "Oʻrta quloq hosilasi"
+   },
+   "proc": {
+    "ru": "удаление и тимпанопластика",
+    "uz": "olib tashlash va timpanoplastika"
+   },
+   "origin": {
+    "ru": "Кыргызстан",
+    "uz": "Qirgʻiziston",
+    "key": "kg"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Заложенность уха.",
+     "uz": "Quloq bitishi."
+    },
+    "diagnosis": {
+     "ru": "Образование среднего уха, перекрывающее наружный слуховой проход.",
+     "uz": "Tashqi eshitish yoʻlini toʻsib qoʻygan oʻrta quloq hosilasi."
+    },
+    "done": {
+     "ru": "Образование среднего уха удалено; реконструкция цепи слуховых косточек; тимпанопластика.",
+     "uz": "Oʻrta quloq hosilasi olib tashlandi; eshitish suyakchalari zanjiri rekonstruksiyasi; timpanoplastika."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Ddy_TTtR77Y.jpg",
+   "thumb": "img/t/Ddy_TTtR77Y.jpg",
+   "ig": "https://www.instagram.com/p/Ddy_TTtR77Y/",
+   "id": "LP-111"
+  },
+  {
+   "code": "DdsmwheKn5S",
+   "date": "2026-09-25",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DdsmwheKn5S.jpg",
+   "thumb": "img/t/DdsmwheKn5S.jpg",
+   "ig": "https://www.instagram.com/p/DdsmwheKn5S/",
+   "id": "LP-110"
+  },
+  {
+   "code": "DddJ_-Wq_Ep",
+   "date": "2026-09-19",
+   "area": "kids",
+   "tag": "adenoids",
+   "title": {
+    "ru": "Аденоиды",
+    "uz": "Adenoidlar"
+   },
+   "proc": {
+    "ru": "эндоскопическая аденотомия",
+    "uz": "endoskopik adenotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, храп и сон с открытым ртом.",
+     "uz": "Burun orqali nafas olish qiyinligi, xurrak va ogʻiz ochiq holda uxlash."
+    },
+    "diagnosis": {
+     "ru": "Гипертрофия аденоидов III степени.",
+     "uz": "III darajali adenoid gipertrofiyasi."
+    },
+    "done": {
+     "ru": "Эндоскопическое лазерное удаление аденоидов.",
+     "uz": "Adenoidlar endoskopik lazer bilan olib tashlandi."
+    },
+    "note": {
+     "ru": "Состояние в послеоперационном периоде удовлетворительное.",
+     "uz": "Operatsiyadan keyingi holat qoniqarli."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DddJ_-Wq_Ep.jpg",
+   "thumb": "img/t/DddJ_-Wq_Ep.jpg",
+   "ig": "https://www.instagram.com/p/DddJ_-Wq_Ep/",
+   "id": "LP-109"
+  },
+  {
+   "code": "DdYAY0tqEdY",
+   "date": "2026-09-17",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки; ранее оперирована на родине — без стойкого результата.",
+     "uz": "Nogʻora parda teshilishi; avval oʻz yurtida operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Реконструкция среднего уха; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Oʻrta quloq rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DdYAY0tqEdY.jpg",
+   "thumb": "img/t/DdYAY0tqEdY.jpg",
+   "ig": "https://www.instagram.com/p/DdYAY0tqEdY/",
+   "id": "LP-108"
+  },
+  {
+   "code": "DdSzbErx9dk",
+   "date": "2026-09-15",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DdSzbErx9dk.mp4",
+   "poster": "media/vp/DdSzbErx9dk_5.jpg",
+   "thumb": "img/t/DdSzbErx9dk.jpg",
+   "ig": "https://www.instagram.com/p/DdSzbErx9dk/",
+   "id": "LP-107"
+  },
+  {
+   "code": "DdKQaFFRK-I",
+   "date": "2026-09-11",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Ранее перенёс операцию — без стойкого результата.",
+     "uz": "Avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DdKQaFFRK-I.jpg",
+   "thumb": "img/t/DdKQaFFRK-I.jpg",
+   "ig": "https://www.instagram.com/p/DdKQaFFRK-I/",
+   "id": "LP-106"
+  },
+  {
+   "code": "DdBvBvluDTB",
+   "date": "2026-09-08",
+   "area": "skull",
+   "tag": "skull_tumor",
+   "title": {
+    "ru": "Опухоль основания черепа",
+    "uz": "Kalla asosi oʻsmasi"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Одностороннее затруднение носового дыхания.",
+     "uz": "Bir tomonlama burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Карцинома с распространением на основание черепа.",
+     "uz": "Kalla asosiga tarqalgan karsinoma."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление опухоли с распространением на основание черепа.",
+     "uz": "Kalla asosiga tarqalgan oʻsma endoskopik olib tashlandi."
+    },
+    "note": {
+     "ru": "Пациент в послеоперационном периоде под наблюдением онколога и химиотерапевта.",
+     "uz": "Bemor operatsiyadan keyin onkolog va kimyoterapevt nazoratida."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DdBvBvluDTB.jpg",
+   "thumb": "img/t/DdBvBvluDTB.jpg",
+   "ig": "https://www.instagram.com/p/DdBvBvluDTB/",
+   "id": "LP-105"
+  },
+  {
+   "code": "Dc-sdTWucWh",
+   "date": "2026-09-07",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика II типа",
+    "uz": "II turdagi timpanoplastika"
+   },
+   "origin": {
+    "ru": "Наманган",
+    "uz": "Namangan",
+    "key": "namangan"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, шум в ушах.",
+     "uz": "Eshitish pasayishi, quloqda shovqin."
+    },
+    "done": {
+     "ru": "Тимпанопластика II типа с частичным протезом.",
+     "uz": "II turdagi timpanoplastika, qisman protez."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dc-sdTWucWh.jpg",
+   "thumb": "img/t/Dc-sdTWucWh.jpg",
+   "ig": "https://www.instagram.com/p/Dc-sdTWucWh/",
+   "id": "LP-104"
+  },
+  {
+   "code": "Dc3w_-eOd66",
+   "date": "2026-09-04",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика и протез",
+    "uz": "timpanoplastika va protez"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Выделения из уха.",
+     "uz": "Quloqdan ajralma."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки; нарушение цепи слуховых косточек.",
+     "uz": "Nogʻora parda teshilishi; eshitish suyakchalari zanjirining buzilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dc3w_-eOd66.jpg",
+   "thumb": "img/t/Dc3w_-eOd66.jpg",
+   "ig": "https://www.instagram.com/p/Dc3w_-eOd66/",
+   "id": "LP-103"
+  },
+  {
+   "code": "Dc1N-S1ObwD",
+   "date": "2026-09-03",
+   "area": "nose",
+   "tag": "septum",
+   "title": {
+    "ru": "Искривление перегородки носа",
+    "uz": "Burun toʻsigʻi qiyshiqligi"
+   },
+   "proc": {
+    "ru": "радиоволновая септопластика",
+    "uz": "radiotoʻlqinli septoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, затруднённое носовое дыхание.",
+     "uz": "Bosh ogʻriqlari, burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Искривление перегородки носа.",
+     "uz": "Burun toʻsigʻi qiyshiqligi."
+    },
+    "done": {
+     "ru": "Радиоволновая септопластика, уменьшение нижних носовых раковин.",
+     "uz": "Radiotoʻlqinli septoplastika, pastki burun chigʻanoqlari kichraytirildi."
+    },
+    "note": {
+     "ru": "Через три месяца после операции пациент отмечает свободное носовое дыхание.",
+     "uz": "Operatsiyadan uch oy oʻtib bemor burun orqali erkin nafas olayotganini qayd etadi."
+    }
+   },
+   "video": "media/v/Dc1N-S1ObwD.mp4",
+   "poster": "media/vp/Dc1N-S1ObwD_5.jpg",
+   "thumb": "img/t/Dc1N-S1ObwD.jpg",
+   "ig": "https://www.instagram.com/p/Dc1N-S1ObwD/",
+   "id": "LP-102"
+  },
+  {
+   "code": "DcwCq6lunjZ",
+   "date": "2026-09-01",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": {
+    "ru": "Хорезм",
+    "uz": "Xorazm",
+    "key": "khorezm"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcwCq6lunjZ.jpg",
+   "thumb": "img/t/DcwCq6lunjZ.jpg",
+   "ig": "https://www.instagram.com/p/DcwCq6lunjZ/",
+   "id": "LP-101"
+  },
+  {
+   "code": "DcrGEQotyjI",
+   "date": "2026-08-30",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "повторное вмешательство (решение)",
+    "uz": "takroriy operatsiya (qaror)"
+   },
+   "origin": {
+    "ru": "Россия",
+    "uz": "Rossiya",
+    "key": "ru"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; ранее оперирована в Москве — без стойкого результата.",
+     "uz": "Oʻrta quloq xolesteatomasi; avval Moskvada operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "После обследования принято решение о повторном вмешательстве.",
+     "uz": "Tekshiruvdan soʻng takroriy operatsiya qarori qabul qilindi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcrGEQotyjI.jpg",
+   "thumb": "img/t/DcrGEQotyjI.jpg",
+   "ig": "https://www.instagram.com/p/DcrGEQotyjI/",
+   "id": "LP-100"
+  },
+  {
+   "code": "DcnJ2zRK5i3",
+   "date": "2026-08-29",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, выделения из носа, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, burundan ajralma, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Инородное тело верхнечелюстной (гайморовой) пазухи; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida yot jism; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела (эндоскопическая гайморотомия).",
+     "uz": "Yot jism endoskopik usulda olib tashlandi (endoskopik gaymorotomiya)."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcnJ2zRK5i3.jpg",
+   "thumb": "img/t/DcnJ2zRK5i3.jpg",
+   "ig": "https://www.instagram.com/p/DcnJ2zRK5i3/",
+   "id": "LP-099"
+  },
+  {
+   "code": "DcYwnm9x-jq",
+   "date": "2026-08-27",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Ранее оперирована в Казахстане — без стойкого результата.",
+     "uz": "Avval Qozogʻistonda operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Реконструкция среднего уха.",
+     "uz": "Oʻrta quloq rekonstruksiyasi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcYwnm9x-jq.jpg",
+   "thumb": "img/t/DcYwnm9x-jq.jpg",
+   "ig": "https://www.instagram.com/p/DcYwnm9x-jq/",
+   "id": "LP-098"
+  },
+  {
+   "code": "DceBD4FxL-S",
+   "date": "2026-08-25",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Реконструкция среднего уха; восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Oʻrta quloq rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DceBD4FxL-S.jpg",
+   "thumb": "img/t/DceBD4FxL-S.jpg",
+   "ig": "https://www.instagram.com/p/DceBD4FxL-S/",
+   "id": "LP-097"
+  },
+  {
+   "code": "DcYwpNPRWRB",
+   "date": "2026-08-23",
+   "area": "ear",
+   "tag": "mskt",
+   "title": {
+    "ru": "МСКТ и выбор доступа",
+    "uz": "MSKT va kirish yoʻlini tanlash"
+   },
+   "proc": {
+    "ru": "разбор МСКТ",
+    "uz": "MSKT tahlili"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "done": {
+     "ru": "МСКТ височных костей до и после операции; выбран заушный доступ.",
+     "uz": "Chakka suyaklari MSKT operatsiyadan oldin va keyin; quloq orqasidan kirish tanlandi."
+    },
+    "note": {
+     "ru": "Материал о планировании операции: выбор доступа по данным МСКТ.",
+     "uz": "Operatsiyani rejalashtirish haqida: MSKT asosida kirish yoʻlini tanlash."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcYwpNPRWRB.jpg",
+   "thumb": "img/t/DcYwpNPRWRB.jpg",
+   "ig": "https://www.instagram.com/p/DcYwpNPRWRB/",
+   "id": "LP-096"
+  },
+  {
+   "code": "DcWL4IVxmx3",
+   "date": "2026-08-22",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": 14,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DcWL4IVxmx3.mp4",
+   "poster": "media/vp/DcWL4IVxmx3_5.jpg",
+   "thumb": "img/t/DcWL4IVxmx3.jpg",
+   "ig": "https://www.instagram.com/p/DcWL4IVxmx3/",
+   "id": "LP-095"
+  },
+  {
+   "code": "DcP2sUmqqmI",
+   "date": "2026-08-20",
+   "area": "kids",
+   "tag": "adenoids",
+   "title": {
+    "ru": "Аденоиды",
+    "uz": "Adenoidlar"
+   },
+   "proc": {
+    "ru": "эндоскопическая аденотомия",
+    "uz": "endoskopik adenotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, храп и сон с открытым ртом.",
+     "uz": "Burun orqali nafas olish qiyinligi, xurrak va ogʻiz ochiq holda uxlash."
+    },
+    "diagnosis": {
+     "ru": "Гипертрофия аденоидов III степени.",
+     "uz": "III darajali adenoid gipertrofiyasi."
+    },
+    "done": {
+     "ru": "Эндоскопическое лазерное удаление аденоидов.",
+     "uz": "Adenoidlar endoskopik lazer bilan olib tashlandi."
+    },
+    "note": {
+     "ru": "Состояние в послеоперационном периоде удовлетворительное.",
+     "uz": "Operatsiyadan keyingi holat qoniqarli."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcP2sUmqqmI.jpg",
+   "thumb": "img/t/DcP2sUmqqmI.jpg",
+   "ig": "https://www.instagram.com/p/DcP2sUmqqmI/",
+   "id": "LP-094"
+  },
+  {
+   "code": "DcKtLVhKxa_",
+   "date": "2026-08-18",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "оссикулопластика",
+    "uz": "ossikuloplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отсутствие барабанной перепонки; нарушение цепи слуховых косточек.",
+     "uz": "Nogʻora parda yoʻq; eshitish suyakchalari zanjirining buzilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "Через несколько часов после операции пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan bir necha soat oʻtib bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcKtLVhKxa_.jpg",
+   "thumb": "img/t/DcKtLVhKxa_.jpg",
+   "ig": "https://www.instagram.com/p/DcKtLVhKxa_/",
+   "id": "LP-093"
+  },
+  {
+   "code": "DcG14-7OJbf",
+   "date": "2026-08-16",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "both_ears"
+   ],
+   "steps": {
+    "done": {
+     "ru": "Реконструкция среднего уха; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Oʻrta quloq rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "Первое ухо прооперировано ранее; теперь — этап на втором ухе.",
+     "uz": "Birinchi quloq avvalroq operatsiya qilingan; endi — ikkinchi quloq bosqichi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DcG14-7OJbf.jpg",
+   "thumb": "img/t/DcG14-7OJbf.jpg",
+   "ig": "https://www.instagram.com/p/DcG14-7OJbf/",
+   "id": "LP-092"
+  },
+  {
+   "code": "Db_HkI-RZu2",
+   "date": "2026-08-13",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "both_ears"
+   ],
+   "steps": {
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "Первое ухо прооперировано ранее; теперь — этап на втором ухе.",
+     "uz": "Birinchi quloq avvalroq operatsiya qilingan; endi — ikkinchi quloq bosqichi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Db_HkI-RZu2.jpg",
+   "thumb": "img/t/Db_HkI-RZu2.jpg",
+   "ig": "https://www.instagram.com/p/Db_HkI-RZu2/",
+   "id": "LP-091"
+  },
+  {
+   "code": "Db4rkAsqAsb",
+   "date": "2026-08-11",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, выделения из носа, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, burundan ajralma, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Инородное тело верхнечелюстной (гайморовой) пазухи; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida yot jism; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела (эндоскопическая гайморотомия).",
+     "uz": "Yot jism endoskopik usulda olib tashlandi (endoskopik gaymorotomiya)."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Db4rkAsqAsb.jpg",
+   "thumb": "img/t/Db4rkAsqAsb.jpg",
+   "ig": "https://www.instagram.com/p/Db4rkAsqAsb/",
+   "id": "LP-090"
+  },
+  {
+   "code": "DbtJbFQxX5s",
+   "date": "2026-08-06",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; перфорация барабанной перепонки.",
+     "uz": "Oʻrta quloq xolesteatomasi; nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена (техника canal wall down, заушный доступ); установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi (canal wall down usuli, quloq orqasidan kirish); eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DbtJbFQxX5s.jpg",
+   "thumb": "img/t/DbtJbFQxX5s.jpg",
+   "ig": "https://www.instagram.com/p/DbtJbFQxX5s/",
+   "id": "LP-089"
+  },
+  {
+   "code": "Dbn_2gUJuHg",
+   "date": "2026-08-04",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки; нарушение цепи слуховых косточек.",
+     "uz": "Nogʻora parda teshilishi; eshitish suyakchalari zanjirining buzilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dbn_2gUJuHg.jpg",
+   "thumb": "img/t/Dbn_2gUJuHg.jpg",
+   "ig": "https://www.instagram.com/p/Dbn_2gUJuHg/",
+   "id": "LP-088"
+  },
+  {
+   "code": "Dbi5rhPKUIk",
+   "date": "2026-08-02",
+   "area": "nose",
+   "tag": "nasal_tumor",
+   "title": {
+    "ru": "Новообразование полости носа",
+    "uz": "Burun boʻshligʻi oʻsmasi"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Одностороннее затруднение носового дыхания.",
+     "uz": "Bir tomonlama burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Новообразование полости носа (карцинома).",
+     "uz": "Burun boʻshligʻi oʻsmasi (karsinoma)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление новообразования.",
+     "uz": "Oʻsma endoskopik olib tashlandi."
+    },
+    "note": {
+     "ru": "После лечения пациент восстановился и вернулся к обычной жизни.",
+     "uz": "Davolashdan soʻng bemor tiklanib, odatiy hayotiga qaytdi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dbi5rhPKUIk.jpg",
+   "thumb": "img/t/Dbi5rhPKUIk.jpg",
+   "ig": "https://www.instagram.com/p/Dbi5rhPKUIk/",
+   "id": "LP-087"
+  },
+  {
+   "code": "DbZyBfiRQJn",
+   "date": "2026-07-30",
+   "area": "nose",
+   "tag": "septum",
+   "title": {
+    "ru": "Искривление перегородки носа",
+    "uz": "Burun toʻsigʻi qiyshiqligi"
+   },
+   "proc": {
+    "ru": "септопластика",
+    "uz": "septoplastika"
+   },
+   "origin": {
+    "ru": "Хорезм",
+    "uz": "Xorazm",
+    "key": "khorezm"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Постоянное использование сосудосуживающих спреев.",
+     "uz": "Tomir toraytiruvchi spreylardan doimiy foydalanish."
+    },
+    "diagnosis": {
+     "ru": "Искривление перегородки носа.",
+     "uz": "Burun toʻsigʻi qiyshiqligi."
+    },
+    "done": {
+     "ru": "Эндоскопическая септопластика.",
+     "uz": "Endoskopik septoplastika."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DbZyBfiRQJn.jpg",
+   "thumb": "img/t/DbZyBfiRQJn.jpg",
+   "ig": "https://www.instagram.com/p/DbZyBfiRQJn/",
+   "id": "LP-086"
+  },
+  {
+   "code": "DbUyuZvuOWD",
+   "date": "2026-07-28",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "оссикулопластика",
+    "uz": "ossikuloplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": 13,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Кондуктивная тугоухость IV степени; нарушение цепи слуховых косточек.",
+     "uz": "IV darajali konduktiv eshitish pasayishi; eshitish suyakchalari zanjirining buzilishi."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости; установлен тотальный протез слуховых косточек.",
+     "uz": "Nogʻora boʻshligʻi reviziyasi; total eshitish suyakchasi protezi oʻrnatildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DbUyuZvuOWD.jpg",
+   "thumb": "img/t/DbUyuZvuOWD.jpg",
+   "ig": "https://www.instagram.com/p/DbUyuZvuOWD/",
+   "id": "LP-085"
+  },
+  {
+   "code": "Da79ME6RshM",
+   "date": "2026-07-26",
+   "area": "nose",
+   "tag": "septal_perf",
+   "title": {
+    "ru": "Перфорация перегородки носа",
+    "uz": "Burun toʻsigʻi teshilishi"
+   },
+   "proc": {
+    "ru": "закрытие перфорации",
+    "uz": "teshikni yopish"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание.",
+     "uz": "Burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация перегородки носа около 3 см.",
+     "uz": "Burun toʻsigʻi teshilishi (taxminan 3 sm)."
+    },
+    "done": {
+     "ru": "Закрытие перфорации перегородки.",
+     "uz": "Toʻsiq teshigi yopildi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациентка отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Da79ME6RshM.jpg",
+   "thumb": "img/t/Da79ME6RshM.jpg",
+   "ig": "https://www.instagram.com/p/Da79ME6RshM/",
+   "id": "LP-084"
+  },
+  {
+   "code": "DbM9hsNqMA1",
+   "date": "2026-07-25",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DbM9hsNqMA1.jpg",
+   "thumb": "img/t/DbM9hsNqMA1.jpg",
+   "ig": "https://www.instagram.com/p/DbM9hsNqMA1/",
+   "id": "LP-083"
+  },
+  {
+   "code": "DbCqWdcxEP8",
+   "date": "2026-07-21",
+   "area": "nose",
+   "tag": "septum",
+   "title": {
+    "ru": "Искривление перегородки носа",
+    "uz": "Burun toʻsigʻi qiyshiqligi"
+   },
+   "proc": {
+    "ru": "септопластика",
+    "uz": "septoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, затруднённое носовое дыхание.",
+     "uz": "Bosh ogʻriqlari, burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Искривление перегородки носа.",
+     "uz": "Burun toʻsigʻi qiyshiqligi."
+    },
+    "done": {
+     "ru": "Эндоскопическая септопластика.",
+     "uz": "Endoskopik septoplastika."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DbCqWdcxEP8.mp4",
+   "poster": "media/vp/DbCqWdcxEP8_5.jpg",
+   "thumb": "img/t/DbCqWdcxEP8.jpg",
+   "ig": "https://www.instagram.com/p/DbCqWdcxEP8/",
+   "id": "LP-082"
+  },
+  {
+   "code": "Da-vsjnxUEu",
+   "date": "2026-07-19",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": null,
+   "age": 18,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Гнойные выделения из уха, головные боли.",
+     "uz": "Quloqdan yiringli ajralma, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха.",
+     "uz": "Oʻrta quloq xolesteatomasi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена; реконструкция среднего уха.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi; oʻrta quloq rekonstruksiyasi."
+    },
+    "note": {
+     "ru": "Послеоперационный период — под наблюдением врача.",
+     "uz": "Operatsiyadan keyingi davr shifokor nazoratida."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Da-vsjnxUEu.jpg",
+   "thumb": "img/t/Da-vsjnxUEu.jpg",
+   "ig": "https://www.instagram.com/p/Da-vsjnxUEu/",
+   "id": "LP-081"
+  },
+  {
+   "code": "Da79GmgxrLc",
+   "date": "2026-07-18",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/Da79GmgxrLc.mp4",
+   "poster": "media/vp/Da79GmgxrLc_5.jpg",
+   "thumb": "img/t/Da79GmgxrLc.jpg",
+   "ig": "https://www.instagram.com/p/Da79GmgxrLc/",
+   "id": "LP-080"
+  },
+  {
+   "code": "Da1yTN6xXz8",
+   "date": "2026-07-16",
+   "area": "kids",
+   "tag": "adenoids",
+   "title": {
+    "ru": "Аденоиды",
+    "uz": "Adenoidlar"
+   },
+   "proc": {
+    "ru": "эндоскопическая аденотомия",
+    "uz": "endoskopik adenotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, храп и сон с открытым ртом.",
+     "uz": "Burun orqali nafas olish qiyinligi, xurrak va ogʻiz ochiq holda uxlash."
+    },
+    "diagnosis": {
+     "ru": "Гипертрофия аденоидов.",
+     "uz": "Adenoid gipertrofiyasi."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление аденоидов.",
+     "uz": "Adenoidlar endoskopik olib tashlandi."
+    },
+    "note": {
+     "ru": "Состояние в послеоперационном периоде удовлетворительное.",
+     "uz": "Operatsiyadan keyingi holat qoniqarli."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Da1yTN6xXz8.jpg",
+   "thumb": "img/t/Da1yTN6xXz8.jpg",
+   "ig": "https://www.instagram.com/p/Da1yTN6xXz8/",
+   "id": "LP-079"
+  },
+  {
+   "code": "DavUnblxwmg",
+   "date": "2026-07-14",
+   "area": "ear",
+   "tag": "mixed_hl",
+   "title": {
+    "ru": "Смешанная тугоухость",
+    "uz": "Aralash eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "ревизия и слуховой протез",
+    "uz": "reviziya va eshitish protezi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Смешанная тугоухость III степени.",
+     "uz": "Aralash eshitish pasayishi (III daraja)."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости; установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora boʻshligʻi reviziyasi; eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DavUnblxwmg.mp4",
+   "poster": "media/vp/DavUnblxwmg_5.jpg",
+   "thumb": "img/t/DavUnblxwmg.jpg",
+   "ig": "https://www.instagram.com/p/DavUnblxwmg/",
+   "id": "LP-078"
+  },
+  {
+   "code": "Dajx34GK-PP",
+   "date": "2026-07-09",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Ранее перенёс операцию — без стойкого результата.",
+     "uz": "Avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Dajx34GK-PP.jpg",
+   "thumb": "img/t/Dajx34GK-PP.jpg",
+   "ig": "https://www.instagram.com/p/Dajx34GK-PP/",
+   "id": "LP-077"
+  },
+  {
+   "code": "Daae2ozuIaY",
+   "date": "2026-07-07",
+   "area": "ear",
+   "tag": "mixed_hl",
+   "title": {
+    "ru": "Смешанная тугоухость",
+    "uz": "Aralash eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "ревизия и слуховой протез",
+    "uz": "reviziya va eshitish protezi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Смешанная тугоухость III степени.",
+     "uz": "Aralash eshitish pasayishi (III daraja)."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости; установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora boʻshligʻi reviziyasi; eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/Daae2ozuIaY.jpg",
+   "thumb": "img/t/Daae2ozuIaY.jpg",
+   "ig": "https://www.instagram.com/p/Daae2ozuIaY/",
+   "id": "LP-076"
+  },
+  {
+   "code": "Daagg7jOC0I",
+   "date": "2026-07-05",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/Daagg7jOC0I.mp4",
+   "poster": "media/vp/Daagg7jOC0I_5.jpg",
+   "thumb": "img/t/Daagg7jOC0I.jpg",
+   "ig": "https://www.instagram.com/p/Daagg7jOC0I/",
+   "id": "LP-075"
+  },
+  {
+   "code": "DaN8BfKug__",
+   "date": "2026-06-30",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, выделения из носа, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, burundan ajralma, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Инородное тело верхнечелюстной (гайморовой) пазухи; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida yot jism; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела (эндоскопическая гайморотомия).",
+     "uz": "Yot jism endoskopik usulda olib tashlandi (endoskopik gaymorotomiya)."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DaN8BfKug__.jpg",
+   "thumb": "img/t/DaN8BfKug__.jpg",
+   "ig": "https://www.instagram.com/p/DaN8BfKug__/",
+   "id": "LP-074"
+  },
+  {
+   "code": "DaJ_or6qPf2",
+   "date": "2026-06-29",
+   "area": "nose",
+   "tag": "septum",
+   "title": {
+    "ru": "Искривление перегородки носа",
+    "uz": "Burun toʻsigʻi qiyshiqligi"
+   },
+   "proc": {
+    "ru": "септопластика",
+    "uz": "septoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, постоянное использование сосудосуживающих спреев.",
+     "uz": "Bosh ogʻriqlari, tomir toraytiruvchi spreylardan doimiy foydalanish."
+    },
+    "diagnosis": {
+     "ru": "Искривление перегородки носа.",
+     "uz": "Burun toʻsigʻi qiyshiqligi."
+    },
+    "done": {
+     "ru": "Эндоскопическая септопластика.",
+     "uz": "Endoskopik septoplastika."
+    },
+    "note": {
+     "ru": "Через месяц после операции пациент отмечает свободное носовое дыхание.",
+     "uz": "Operatsiyadan bir oy oʻtib bemor burun orqali erkin nafas olayotganini qayd etadi."
+    }
+   },
+   "video": "media/v/DaJ_or6qPf2.mp4",
+   "poster": "media/vp/DaJ_or6qPf2_5.jpg",
+   "thumb": "img/t/DaJ_or6qPf2.jpg",
+   "ig": "https://www.instagram.com/p/DaJ_or6qPf2/",
+   "id": "LP-073"
+  },
+  {
+   "code": "DaE3R0tR9Aq",
+   "date": "2026-06-27",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, заложенность уха, головные боли.",
+     "uz": "Eshitish pasayishi, quloq bitishi, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха.",
+     "uz": "Oʻrta quloq xolesteatomasi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена; тимпанопластика.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi; timpanoplastika."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DaE3R0tR9Aq.jpg",
+   "thumb": "img/t/DaE3R0tR9Aq.jpg",
+   "ig": "https://www.instagram.com/p/DaE3R0tR9Aq/",
+   "id": "LP-072"
+  },
+  {
+   "code": "DaE3R-Ox0m6",
+   "date": "2026-06-26",
+   "area": "ear",
+   "tag": "mixed_hl",
+   "title": {
+    "ru": "Смешанная тугоухость",
+    "uz": "Aralash eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика II типа",
+    "uz": "II turdagi timpanoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Смешанная тугоухость III степени.",
+     "uz": "Aralash eshitish pasayishi (III daraja)."
+    },
+    "done": {
+     "ru": "Тимпанопластика II типа с частичным протезом.",
+     "uz": "II turdagi timpanoplastika, qisman protez."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DaE3R-Ox0m6.mp4",
+   "poster": "media/vp/DaE3R-Ox0m6_5.jpg",
+   "thumb": "img/t/DaE3R-Ox0m6.jpg",
+   "ig": "https://www.instagram.com/p/DaE3R-Ox0m6/",
+   "id": "LP-071"
+  },
+  {
+   "code": "DZ-KEFdOAwL",
+   "date": "2026-06-24",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "На следующий день после операции пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi kuni bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZ-KEFdOAwL.jpg",
+   "thumb": "img/t/DZ-KEFdOAwL.jpg",
+   "ig": "https://www.instagram.com/p/DZ-KEFdOAwL/",
+   "id": "LP-070"
+  },
+  {
+   "code": "DZ6kGuUK5ks",
+   "date": "2026-06-23",
+   "area": "nose",
+   "tag": "polyps",
+   "title": {
+    "ru": "Полипы носа",
+    "uz": "Burun poliplari"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление полипов",
+    "uz": "poliplarni endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Боль в области лба, выделения из носа.",
+     "uz": "Peshona sohasida ogʻriq, burundan ajralma."
+    },
+    "diagnosis": {
+     "ru": "Хронический фронтит с полипозом.",
+     "uz": "Polipozli surunkali frontit."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление полипов, вскрыта лобная пазуха.",
+     "uz": "Poliplar endoskopik olib tashlandi, peshona boʻshligʻi ochildi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DZ6kGuUK5ks.mp4",
+   "poster": "media/vp/DZ6kGuUK5ks_5.jpg",
+   "thumb": "img/t/DZ6kGuUK5ks.jpg",
+   "ig": "https://www.instagram.com/p/DZ6kGuUK5ks/",
+   "id": "LP-069"
+  },
+  {
+   "code": "DZwQ3g9qpAJ",
+   "date": "2026-06-19",
+   "area": "throat",
+   "tag": "tonsillitis",
+   "title": {
+    "ru": "Хронический тонзиллит",
+    "uz": "Surunkali tonzillit"
+   },
+   "proc": {
+    "ru": "лазерная тонзиллэктомия",
+    "uz": "lazerli tonzillektomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Частые ангины.",
+     "uz": "Tez-tez angina."
+    },
+    "diagnosis": {
+     "ru": "Хронический тонзиллит.",
+     "uz": "Surunkali tonzillit."
+    },
+    "done": {
+     "ru": "Удаление нёбных миндалин с использованием лазера.",
+     "uz": "Tanglay murtaklari lazer yordamida olib tashlandi."
+    },
+    "note": {
+     "ru": "Восстановление проходит без особенностей; пациент отмечает улучшение самочувствия.",
+     "uz": "Tiklanish odatdagidek kechmoqda; bemor oʻzini yaxshi his qilayotganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZwQ3g9qpAJ.jpg",
+   "thumb": "img/t/DZwQ3g9qpAJ.jpg",
+   "ig": "https://www.instagram.com/p/DZwQ3g9qpAJ/",
+   "id": "LP-068"
+  },
+  {
+   "code": "DZrGKw4KvEp",
+   "date": "2026-06-17",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, шум в ушах.",
+     "uz": "Eshitish pasayishi, quloqda shovqin."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом; доступ через слуховой проход, без наружного разреза.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi; eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DZrGKw4KvEp.mp4",
+   "poster": "media/vp/DZrGKw4KvEp_5.jpg",
+   "thumb": "img/t/DZrGKw4KvEp.jpg",
+   "ig": "https://www.instagram.com/p/DZrGKw4KvEp/",
+   "id": "LP-067"
+  },
+  {
+   "code": "DZoidhgqVRe",
+   "date": "2026-06-16",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Гнойные выделения из уха, головные боли.",
+     "uz": "Quloqdan yiringli ajralma, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; ранее перенёс операцию — без стойкого результата.",
+     "uz": "Oʻrta quloq xolesteatomasi; avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi."
+    },
+    "note": {
+     "ru": "Послеоперационный период — под наблюдением врача.",
+     "uz": "Operatsiyadan keyingi davr shifokor nazoratida."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZoidhgqVRe.jpg",
+   "thumb": "img/t/DZoidhgqVRe.jpg",
+   "ig": "https://www.instagram.com/p/DZoidhgqVRe/",
+   "id": "LP-066"
+  },
+  {
+   "code": "DZkY--gubUQ",
+   "date": "2026-06-14",
+   "area": "nose",
+   "tag": "septal_perf",
+   "title": {
+    "ru": "Перфорация перегородки носа",
+    "uz": "Burun toʻsigʻi teshilishi"
+   },
+   "proc": {
+    "ru": "закрытие перфорации",
+    "uz": "teshikni yopish"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Свистящий звук при дыхании.",
+     "uz": "Nafas olganda hushtaksimon tovush."
+    },
+    "diagnosis": {
+     "ru": "Перфорация перегородки носа.",
+     "uz": "Burun toʻsigʻi teshilishi."
+    },
+    "done": {
+     "ru": "Закрытие перфорации перегородки эндоскопическим доступом.",
+     "uz": "Toʻsiq teshigi yopildi (endoskopik usul)."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациентка отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DZkY--gubUQ.mp4",
+   "poster": "media/vp/DZkY--gubUQ_5.jpg",
+   "thumb": "img/t/DZkY--gubUQ.jpg",
+   "ig": "https://www.instagram.com/p/DZkY--gubUQ/",
+   "id": "LP-065"
+  },
+  {
+   "code": "DZg0DgrKiRd",
+   "date": "2026-06-13",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки; нарушение цепи слуховых косточек.",
+     "uz": "Nogʻora parda teshilishi; eshitish suyakchalari zanjirining buzilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "На следующий день после операции пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi kuni bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZg0DgrKiRd.jpg",
+   "thumb": "img/t/DZg0DgrKiRd.jpg",
+   "ig": "https://www.instagram.com/p/DZg0DgrKiRd/",
+   "id": "LP-064"
+  },
+  {
+   "code": "DZWg3zyqCuo",
+   "date": "2026-06-09",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "оссикулопластика",
+    "uz": "ossikuloplastika"
+   },
+   "origin": {
+    "ru": "Кыргызстан",
+    "uz": "Qirgʻiziston",
+    "key": "kg"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; тимпанопластика.",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; timpanoplastika."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZWg3zyqCuo.jpg",
+   "thumb": "img/t/DZWg3zyqCuo.jpg",
+   "ig": "https://www.instagram.com/p/DZWg3zyqCuo/",
+   "id": "LP-063"
+  },
+  {
+   "code": "DZSYk-nOfnh",
+   "date": "2026-06-07",
+   "area": "kids",
+   "tag": "adenoids",
+   "title": {
+    "ru": "Аденоиды",
+    "uz": "Adenoidlar"
+   },
+   "proc": {
+    "ru": "эндоскопическая аденотомия",
+    "uz": "endoskopik adenotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, храп и сон с открытым ртом.",
+     "uz": "Burun orqali nafas olish qiyinligi, xurrak va ogʻiz ochiq holda uxlash."
+    },
+    "diagnosis": {
+     "ru": "Гипертрофия аденоидов III степени.",
+     "uz": "III darajali adenoid gipertrofiyasi."
+    },
+    "done": {
+     "ru": "Эндоскопическое лазерное удаление аденоидов.",
+     "uz": "Adenoidlar endoskopik lazer bilan olib tashlandi."
+    },
+    "note": {
+     "ru": "Состояние в послеоперационном периоде удовлетворительное.",
+     "uz": "Operatsiyadan keyingi holat qoniqarli."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZSYk-nOfnh.jpg",
+   "thumb": "img/t/DZSYk-nOfnh.jpg",
+   "ig": "https://www.instagram.com/p/DZSYk-nOfnh/",
+   "id": "LP-062"
+  },
+  {
+   "code": "DZVHsw7OsYF",
+   "date": "2026-06-06",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZVHsw7OsYF.jpg",
+   "thumb": "img/t/DZVHsw7OsYF.jpg",
+   "ig": "https://www.instagram.com/p/DZVHsw7OsYF/",
+   "id": "LP-061"
+  },
+  {
+   "code": "DY2AXLiu-QP",
+   "date": "2026-06-05",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика и протез",
+    "uz": "timpanoplastika va protez"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DY2AXLiu-QP.jpg",
+   "thumb": "img/t/DY2AXLiu-QP.jpg",
+   "ig": "https://www.instagram.com/p/DY2AXLiu-QP/",
+   "id": "LP-060"
+  },
+  {
+   "code": "DZC7wc0pg8o",
+   "date": "2026-06-01",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DZC7wc0pg8o.jpg",
+   "thumb": "img/t/DZC7wc0pg8o.jpg",
+   "ig": "https://www.instagram.com/p/DZC7wc0pg8o/",
+   "id": "LP-059"
+  },
+  {
+   "code": "DY_ZNxQSl_M",
+   "date": "2026-05-31",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "оссикулопластика",
+    "uz": "ossikuloplastika"
+   },
+   "origin": {
+    "key": "kz",
+    "ru": "Актау, Казахстан",
+    "uz": "Aqtau, Qozogʻiston"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; тимпанопластика.",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; timpanoplastika."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DY_ZNxQSl_M.mp4",
+   "poster": "media/vp/DY_ZNxQSl_M_5.jpg",
+   "thumb": "img/t/DY_ZNxQSl_M.jpg",
+   "ig": "https://www.instagram.com/p/DY_ZNxQSl_M/",
+   "id": "LP-058"
+  },
+  {
+   "code": "DY9kdndRGlb",
+   "date": "2026-05-30",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, выделения из носа, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, burundan ajralma, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Инородное тело верхнечелюстной (гайморовой) пазухи; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida yot jism; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела (эндоскопическая гайморотомия).",
+     "uz": "Yot jism endoskopik usulda olib tashlandi (endoskopik gaymorotomiya)."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DY9kdndRGlb.jpg",
+   "thumb": "img/t/DY9kdndRGlb.jpg",
+   "ig": "https://www.instagram.com/p/DY9kdndRGlb/",
+   "id": "LP-057"
+  },
+  {
+   "code": "DY6IyPcy7Q3",
+   "date": "2026-05-29",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Гнойные выделения из уха, головные боли.",
+     "uz": "Quloqdan yiringli ajralma, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; атрезия наружного слухового прохода.",
+     "uz": "Oʻrta quloq xolesteatomasi; tashqi eshitish yoʻli atreziyasi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена; каналопластика — восстановлена проходимость слухового прохода.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi; kanaloplastika — eshitish yoʻli oʻtkazuvchanligi tiklandi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DY6IyPcy7Q3.jpg",
+   "thumb": "img/t/DY6IyPcy7Q3.jpg",
+   "ig": "https://www.instagram.com/p/DY6IyPcy7Q3/",
+   "id": "LP-056"
+  },
+  {
+   "code": "DYzYIX9OytC",
+   "date": "2026-05-26",
+   "area": "nose",
+   "tag": "nasal_obstruction",
+   "title": {
+    "ru": "Хроническая заложенность носа",
+    "uz": "Surunkali burun bitishi"
+   },
+   "proc": {
+    "ru": "восстановление носового дыхания",
+    "uz": "burun nafasini tiklash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, постоянное использование сосудосуживающих спреев.",
+     "uz": "Burun orqali nafas olish qiyinligi, tomir toraytiruvchi spreylardan doimiy foydalanish."
+    },
+    "diagnosis": {
+     "ru": "Хроническое нарушение носового дыхания (по данным эндоскопии).",
+     "uz": "Surunkali burun orqali nafas buzilishi (endoskopiya maʼlumotlariga koʻra)."
+    },
+    "done": {
+     "ru": "Эндоскопическое обследование и хирургическое восстановление носового дыхания.",
+     "uz": "Endoskopik tekshiruv va burun orqali nafasni jarrohlik yoʻli bilan tiklash."
+    },
+    "note": {
+     "ru": "Через четыре года после операции пациент отмечает хорошее носовое дыхание.",
+     "uz": "Operatsiyadan toʻrt yil oʻtib bemor burun orqali yaxshi nafas olayotganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYzYIX9OytC.jpg",
+   "thumb": "img/t/DYzYIX9OytC.jpg",
+   "ig": "https://www.instagram.com/p/DYzYIX9OytC/",
+   "id": "LP-055"
+  },
+  {
+   "code": "DYv8aKPuFlD",
+   "date": "2026-05-25",
+   "area": "ear",
+   "tag": "mixed_hl",
+   "title": {
+    "ru": "Смешанная тугоухость",
+    "uz": "Aralash eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика II типа",
+    "uz": "II turdagi timpanoplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Смешанная тугоухость III степени.",
+     "uz": "Aralash eshitish pasayishi (III daraja)."
+    },
+    "done": {
+     "ru": "Тимпанопластика II типа с частичным протезом.",
+     "uz": "II turdagi timpanoplastika, qisman protez."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYv8aKPuFlD.jpg",
+   "thumb": "img/t/DYv8aKPuFlD.jpg",
+   "ig": "https://www.instagram.com/p/DYv8aKPuFlD/",
+   "id": "LP-054"
+  },
+  {
+   "code": "DYmqd_-OtId",
+   "date": "2026-05-21",
+   "area": "nose",
+   "tag": "sinusitis",
+   "title": {
+    "ru": "Хронический гайморит",
+    "uz": "Surunkali gaymorit"
+   },
+   "proc": {
+    "ru": "эндоскопическая гайморотомия",
+    "uz": "endoskopik gaymorotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, выделения из носа.",
+     "uz": "Bosh ogʻriqlari, burundan ajralma."
+    },
+    "diagnosis": {
+     "ru": "Хронический гайморит.",
+     "uz": "Surunkali gaymorit."
+    },
+    "done": {
+     "ru": "Эндоскопическая гайморотомия.",
+     "uz": "Endoskopik gaymorotomiya."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYmqd_-OtId.jpg",
+   "thumb": "img/t/DYmqd_-OtId.jpg",
+   "ig": "https://www.instagram.com/p/DYmqd_-OtId/",
+   "id": "LP-053"
+  },
+  {
+   "code": "DYgcRWpypGM",
+   "date": "2026-05-19",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Реконструкция среднего уха; восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Oʻrta quloq rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYgcRWpypGM.jpg",
+   "thumb": "img/t/DYgcRWpypGM.jpg",
+   "ig": "https://www.instagram.com/p/DYgcRWpypGM/",
+   "id": "LP-052"
+  },
+  {
+   "code": "DYYstOhR_SJ",
+   "date": "2026-05-16",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Каракалпакстан",
+    "uz": "Qoraqalpogʻiston",
+    "key": "kk"
+   },
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYYstOhR_SJ.jpg",
+   "thumb": "img/t/DYYstOhR_SJ.jpg",
+   "ig": "https://www.instagram.com/p/DYYstOhR_SJ/",
+   "id": "LP-051"
+  },
+  {
+   "code": "DYL13QPhofm",
+   "date": "2026-05-11",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, шум в ушах.",
+     "uz": "Eshitish pasayishi, quloqda shovqin."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом; доступ через слуховой проход, без наружного разреза.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi; eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYL13QPhofm.jpg",
+   "thumb": "img/t/DYL13QPhofm.jpg",
+   "ig": "https://www.instagram.com/p/DYL13QPhofm/",
+   "id": "LP-050"
+  },
+  {
+   "code": "DYHqCoxxzrU",
+   "date": "2026-05-09",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, выделения из носа, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, burundan ajralma, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Инородное тело верхнечелюстной (гайморовой) пазухи; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida yot jism; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела (эндоскопическая гайморотомия).",
+     "uz": "Yot jism endoskopik usulda olib tashlandi (endoskopik gaymorotomiya)."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYHqCoxxzrU.jpg",
+   "thumb": "img/t/DYHqCoxxzrU.jpg",
+   "ig": "https://www.instagram.com/p/DYHqCoxxzrU/",
+   "id": "LP-049"
+  },
+  {
+   "code": "DYCivBgxnQs",
+   "date": "2026-05-07",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; перфорация барабанной перепонки; ранее оперирован по месту жительства — без стойкого результата.",
+     "uz": "Oʻrta quloq xolesteatomasi; nogʻora parda teshilishi; avval yashash joyida operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена; установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi; eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DYCivBgxnQs.jpg",
+   "thumb": "img/t/DYCivBgxnQs.jpg",
+   "ig": "https://www.instagram.com/p/DYCivBgxnQs/",
+   "id": "LP-048"
+  },
+  {
+   "code": "DX-92EnqU_q",
+   "date": "2026-05-06",
+   "area": "nose",
+   "tag": "septal_perf",
+   "title": {
+    "ru": "Перфорация перегородки носа",
+    "uz": "Burun toʻsigʻi teshilishi"
+   },
+   "proc": {
+    "ru": "закрытие перфорации",
+    "uz": "teshikni yopish"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Свистящий звук при дыхании.",
+     "uz": "Nafas olganda hushtaksimon tovush."
+    },
+    "diagnosis": {
+     "ru": "Перфорация перегородки носа; ранее перенёс операцию — без стойкого результата.",
+     "uz": "Burun toʻsigʻi teshilishi; avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Закрытие перфорации перегородки.",
+     "uz": "Toʻsiq teshigi yopildi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DX-92EnqU_q.jpg",
+   "thumb": "img/t/DX-92EnqU_q.jpg",
+   "ig": "https://www.instagram.com/p/DX-92EnqU_q/",
+   "id": "LP-047"
+  },
+  {
+   "code": "DX5yjmtBsr0",
+   "date": "2026-05-04",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "Наблюдение через 1,5 года после операции: пациент отмечает хороший слух.",
+     "uz": "Operatsiyadan 1,5 yil oʻtib kuzatuv: bemor yaxshi eshitayotganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DX5yjmtBsr0.jpg",
+   "thumb": "img/t/DX5yjmtBsr0.jpg",
+   "ig": "https://www.instagram.com/p/DX5yjmtBsr0/",
+   "id": "LP-046"
+  },
+  {
+   "code": "DX10fXEONev",
+   "date": "2026-05-02",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DX10fXEONev.jpg",
+   "thumb": "img/t/DX10fXEONev.jpg",
+   "ig": "https://www.instagram.com/p/DX10fXEONev/",
+   "id": "LP-045"
+  },
+  {
+   "code": "DXyCdOZhFD8",
+   "date": "2026-05-01",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика и протез",
+    "uz": "timpanoplastika va protez"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки; нарушение цепи слуховых косточек.",
+     "uz": "Nogʻora parda teshilishi; eshitish suyakchalari zanjirining buzilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXyCdOZhFD8.jpg",
+   "thumb": "img/t/DXyCdOZhFD8.jpg",
+   "ig": "https://www.instagram.com/p/DXyCdOZhFD8/",
+   "id": "LP-044"
+  },
+  {
+   "code": "DXs7KFxqKNG",
+   "date": "2026-04-29",
+   "area": "kids",
+   "tag": "adenoids",
+   "title": {
+    "ru": "Аденоиды",
+    "uz": "Adenoidlar"
+   },
+   "proc": {
+    "ru": "эндоскопическая аденотомия",
+    "uz": "endoskopik adenotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, храп и сон с открытым ртом.",
+     "uz": "Burun orqali nafas olish qiyinligi, xurrak va ogʻiz ochiq holda uxlash."
+    },
+    "diagnosis": {
+     "ru": "Гипертрофия аденоидов III степени.",
+     "uz": "III darajali adenoid gipertrofiyasi."
+    },
+    "done": {
+     "ru": "Эндоскопическое лазерное удаление аденоидов.",
+     "uz": "Adenoidlar endoskopik lazer bilan olib tashlandi."
+    },
+    "note": {
+     "ru": "Состояние в послеоперационном периоде удовлетворительное.",
+     "uz": "Operatsiyadan keyingi holat qoniqarli."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXs7KFxqKNG.jpg",
+   "thumb": "img/t/DXs7KFxqKNG.jpg",
+   "ig": "https://www.instagram.com/p/DXs7KFxqKNG/",
+   "id": "LP-043"
+  },
+  {
+   "code": "DXipKFhqQww",
+   "date": "2026-04-25",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "both_ears"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Отсутствие барабанной перепонки.",
+     "uz": "Nogʻora parda yoʻq."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXipKFhqQww.jpg",
+   "thumb": "img/t/DXipKFhqQww.jpg",
+   "ig": "https://www.instagram.com/p/DXipKFhqQww/",
+   "id": "LP-042"
+  },
+  {
+   "code": "DXdjhuyu1Bt",
+   "date": "2026-04-23",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Ранее оперирован в Шымкенте — без стойкого результата.",
+     "uz": "Avval Chimkentda operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости, нефункционирующий протез заменён.",
+     "uz": "Nogʻora boʻshligʻi reviziyasi, ishlamayotgan protez almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXdjhuyu1Bt.jpg",
+   "thumb": "img/t/DXdjhuyu1Bt.jpg",
+   "ig": "https://www.instagram.com/p/DXdjhuyu1Bt/",
+   "id": "LP-041"
+  },
+  {
+   "code": "DXYWAwEqeQN",
+   "date": "2026-04-21",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Пломбировочный материал в верхнечелюстной (гайморовой) пазухе; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida plomba materiali; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела через полость носа.",
+     "uz": "Yot jism endoskopik usulda olib tashlandi burun boʻshligʻi orqali."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXYWAwEqeQN.jpg",
+   "thumb": "img/t/DXYWAwEqeQN.jpg",
+   "ig": "https://www.instagram.com/p/DXYWAwEqeQN/",
+   "id": "LP-040"
+  },
+  {
+   "code": "DXLZZfox3yn",
+   "date": "2026-04-16",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXLZZfox3yn.jpg",
+   "thumb": "img/t/DXLZZfox3yn.jpg",
+   "ig": "https://www.instagram.com/p/DXLZZfox3yn/",
+   "id": "LP-039"
+  },
+  {
+   "code": "DXGUYYlq0Sw",
+   "date": "2026-04-14",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха.",
+     "uz": "Oʻrta quloq xolesteatomasi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена; реконструкция цепи слуховых косточек.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi; eshitish suyakchalari zanjiri rekonstruksiyasi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXGUYYlq0Sw.jpg",
+   "thumb": "img/t/DXGUYYlq0Sw.jpg",
+   "ig": "https://www.instagram.com/p/DXGUYYlq0Sw/",
+   "id": "LP-038"
+  },
+  {
+   "code": "DXBO2taKkde",
+   "date": "2026-04-12",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика и протез",
+    "uz": "timpanoplastika va protez"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DXBO2taKkde.jpg",
+   "thumb": "img/t/DXBO2taKkde.jpg",
+   "ig": "https://www.instagram.com/p/DXBO2taKkde/",
+   "id": "LP-037"
+  },
+  {
+   "code": "DW9DDirxXbG",
+   "date": "2026-04-10",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Гнойные выделения из уха, головные боли.",
+     "uz": "Quloqdan yiringli ajralma, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; ранее перенёс операцию — без стойкого результата.",
+     "uz": "Oʻrta quloq xolesteatomasi; avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi."
+    },
+    "note": {
+     "ru": "Послеоперационный период — под наблюдением врача.",
+     "uz": "Operatsiyadan keyingi davr shifokor nazoratida."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DW9DDirxXbG.jpg",
+   "thumb": "img/t/DW9DDirxXbG.jpg",
+   "ig": "https://www.instagram.com/p/DW9DDirxXbG/",
+   "id": "LP-036"
+  },
+  {
+   "code": "DW0PaYtKCKS",
+   "date": "2026-04-07",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Пломбировочный материал в верхнечелюстной (гайморовой) пазухе; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida plomba materiali; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела через полость носа.",
+     "uz": "Yot jism endoskopik usulda olib tashlandi burun boʻshligʻi orqali."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DW0PaYtKCKS.jpg",
+   "thumb": "img/t/DW0PaYtKCKS.jpg",
+   "ig": "https://www.instagram.com/p/DW0PaYtKCKS/",
+   "id": "LP-035"
+  },
+  {
+   "code": "DWsg-v0xJwB",
+   "date": "2026-04-04",
+   "area": "ear",
+   "tag": "mixed_hl",
+   "title": {
+    "ru": "Смешанная тугоухость",
+    "uz": "Aralash eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "ревизия и слуховой протез",
+    "uz": "reviziya va eshitish protezi"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Смешанная тугоухость III степени.",
+     "uz": "Aralash eshitish pasayishi (III daraja)."
+    },
+    "done": {
+     "ru": "Установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWsg-v0xJwB.jpg",
+   "thumb": "img/t/DWsg-v0xJwB.jpg",
+   "ig": "https://www.instagram.com/p/DWsg-v0xJwB/",
+   "id": "LP-034"
+  },
+  {
+   "code": "DWnXYAmquR6",
+   "date": "2026-04-02",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Ранее оперирован на родине — без стойкого результата.",
+     "uz": "Avval oʻz yurtida operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости, нефункционирующий протез заменён.",
+     "uz": "Nogʻora boʻshligʻi reviziyasi, ishlamayotgan protez almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWnXYAmquR6.jpg",
+   "thumb": "img/t/DWnXYAmquR6.jpg",
+   "ig": "https://www.instagram.com/p/DWnXYAmquR6/",
+   "id": "LP-033"
+  },
+  {
+   "code": "DWeE8D-ORq7",
+   "date": "2026-03-29",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": {
+    "ru": "Кыргызстан",
+    "uz": "Qirgʻiziston",
+    "key": "kg"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWeE8D-ORq7.jpg",
+   "thumb": "img/t/DWeE8D-ORq7.jpg",
+   "ig": "https://www.instagram.com/p/DWeE8D-ORq7/",
+   "id": "LP-032"
+  },
+  {
+   "code": "DWbwwEhOadI",
+   "date": "2026-03-28",
+   "area": "nose",
+   "tag": "polyps",
+   "title": {
+    "ru": "Полипы носа",
+    "uz": "Burun poliplari"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление полипов",
+    "uz": "poliplarni endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание.",
+     "uz": "Burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Полипы полости носа и пазух.",
+     "uz": "Burun boʻshligʻi va boʻshliqlar poliplari."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление полипов.",
+     "uz": "Poliplar endoskopik olib tashlandi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWbwwEhOadI.jpg",
+   "thumb": "img/t/DWbwwEhOadI.jpg",
+   "ig": "https://www.instagram.com/p/DWbwwEhOadI/",
+   "id": "LP-031"
+  },
+  {
+   "code": "DWWhYgAuAAf",
+   "date": "2026-03-26",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWWhYgAuAAf.jpg",
+   "thumb": "img/t/DWWhYgAuAAf.jpg",
+   "ig": "https://www.instagram.com/p/DWWhYgAuAAf/",
+   "id": "LP-030"
+  },
+  {
+   "code": "DWRTLU2OfT3",
+   "date": "2026-03-24",
+   "area": "nose",
+   "tag": "septum",
+   "title": {
+    "ru": "Искривление перегородки носа",
+    "uz": "Burun toʻsigʻi qiyshiqligi"
+   },
+   "proc": {
+    "ru": "септопластика",
+    "uz": "septoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание.",
+     "uz": "Burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Искривление перегородки носа.",
+     "uz": "Burun toʻsigʻi qiyshiqligi."
+    },
+    "done": {
+     "ru": "Септопластика.",
+     "uz": "Septoplastika."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DWRTLU2OfT3.mp4",
+   "poster": "media/vp/DWRTLU2OfT3_5.jpg",
+   "thumb": "img/t/DWRTLU2OfT3.jpg",
+   "ig": "https://www.instagram.com/p/DWRTLU2OfT3/",
+   "id": "LP-029"
+  },
+  {
+   "code": "DWHHg6lur3z",
+   "date": "2026-03-20",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "endaural"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика); доступ через слуховой проход, без наружного разреза.",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika); eshitish yoʻli orqali, tashqi kesmasiz."
+    },
+    "note": {
+     "ru": "На следующий день после операции пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi kuni bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DWHHg6lur3z.mp4",
+   "poster": "media/vp/DWHHg6lur3z_5.jpg",
+   "thumb": "img/t/DWHHg6lur3z.jpg",
+   "ig": "https://www.instagram.com/p/DWHHg6lur3z/",
+   "id": "LP-028"
+  },
+  {
+   "code": "DWEfPmDO8so",
+   "date": "2026-03-19",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Ранее оперирован в Турции — без стойкого результата.",
+     "uz": "Avval Turkiyada operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости; установлен протез слуховых косточек.",
+     "uz": "Nogʻora boʻshligʻi reviziyasi; eshitish suyakchasi protezi oʻrnatildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWEfPmDO8so.jpg",
+   "thumb": "img/t/DWEfPmDO8so.jpg",
+   "ig": "https://www.instagram.com/p/DWEfPmDO8so/",
+   "id": "LP-027"
+  },
+  {
+   "code": "DWB7yVigg5L",
+   "date": "2026-03-18",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DWB7yVigg5L.jpg",
+   "thumb": "img/t/DWB7yVigg5L.jpg",
+   "ig": "https://www.instagram.com/p/DWB7yVigg5L/",
+   "id": "LP-026"
+  },
+  {
+   "code": "DV_QfmfjsaY",
+   "date": "2026-03-17",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Гнойные выделения из уха, головные боли.",
+     "uz": "Quloqdan yiringli ajralma, bosh ogʻriqlari."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха; ранее перенёс операцию — без стойкого результата.",
+     "uz": "Oʻrta quloq xolesteatomasi; avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi."
+    },
+    "note": {
+     "ru": "Послеоперационный период — под наблюдением врача.",
+     "uz": "Operatsiyadan keyingi davr shifokor nazoratida."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DV_QfmfjsaY.jpg",
+   "thumb": "img/t/DV_QfmfjsaY.jpg",
+   "ig": "https://www.instagram.com/p/DV_QfmfjsaY/",
+   "id": "LP-025"
+  },
+  {
+   "code": "DV6AEjLjm3I",
+   "date": "2026-03-15",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Пломбировочный материал в верхнечелюстной (гайморовой) пазухе; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida plomba materiali; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела через полость носа.",
+     "uz": "Yot jism endoskopik usulda olib tashlandi burun boʻshligʻi orqali."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DV6AEjLjm3I.jpg",
+   "thumb": "img/t/DV6AEjLjm3I.jpg",
+   "ig": "https://www.instagram.com/p/DV6AEjLjm3I/",
+   "id": "LP-024"
+  },
+  {
+   "code": "DVz3jhuDvSg",
+   "date": "2026-03-13",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVz3jhuDvSg.jpg",
+   "thumb": "img/t/DVz3jhuDvSg.jpg",
+   "ig": "https://www.instagram.com/p/DVz3jhuDvSg/",
+   "id": "LP-023"
+  },
+  {
+   "code": "DVv2DlejnWu",
+   "date": "2026-03-11",
+   "area": "ear",
+   "tag": "tympanosclerosis",
+   "title": {
+    "ru": "Тимпаносклероз",
+    "uz": "Timpanoskleroz"
+   },
+   "proc": {
+    "ru": "реконструкция среднего уха",
+    "uz": "oʻrta quloq rekonstruksiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, гнойные выделения из уха.",
+     "uz": "Eshitish pasayishi, quloqdan yiringli ajralma."
+    },
+    "diagnosis": {
+     "ru": "Тимпаносклероз — рубцовые изменения среднего уха; отсутствие барабанной перепонки.",
+     "uz": "Timpanoskleroz — oʻrta quloqdagi chandiqli oʻzgarishlar; nogʻora parda yoʻq."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVv2DlejnWu.jpg",
+   "thumb": "img/t/DVv2DlejnWu.jpg",
+   "ig": "https://www.instagram.com/p/DVv2DlejnWu/",
+   "id": "LP-022"
+  },
+  {
+   "code": "DVpym9iiovs",
+   "date": "2026-03-09",
+   "area": "nose",
+   "tag": "septal_perf",
+   "title": {
+    "ru": "Перфорация перегородки носа",
+    "uz": "Burun toʻsigʻi teshilishi"
+   },
+   "proc": {
+    "ru": "закрытие перфорации",
+    "uz": "teshikni yopish"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "diagnosis": {
+     "ru": "Перфорация перегородки носа.",
+     "uz": "Burun toʻsigʻi teshilishi."
+    },
+    "done": {
+     "ru": "Закрытие перфорации перегородки.",
+     "uz": "Toʻsiq teshigi yopildi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVpym9iiovs.jpg",
+   "thumb": "img/t/DVpym9iiovs.jpg",
+   "ig": "https://www.instagram.com/p/DVpym9iiovs/",
+   "id": "LP-021"
+  },
+  {
+   "code": "DVliQwdCnQS",
+   "date": "2026-03-07",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика и протез",
+    "uz": "timpanoplastika va protez"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVliQwdCnQS.jpg",
+   "thumb": "img/t/DVliQwdCnQS.jpg",
+   "ig": "https://www.instagram.com/p/DVliQwdCnQS/",
+   "id": "LP-020"
+  },
+  {
+   "code": "DVi4UXgDuE5",
+   "date": "2026-03-06",
+   "area": "nose",
+   "tag": "polyps",
+   "title": {
+    "ru": "Полипы носа",
+    "uz": "Burun poliplari"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление полипов",
+    "uz": "poliplarni endoskopik olib tashlash"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание.",
+     "uz": "Burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Полипы полости носа и пазух.",
+     "uz": "Burun boʻshligʻi va boʻshliqlar poliplari."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление полипов.",
+     "uz": "Poliplar endoskopik olib tashlandi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DVi4UXgDuE5.mp4",
+   "poster": "media/vp/DVi4UXgDuE5_5.jpg",
+   "thumb": "img/t/DVi4UXgDuE5.jpg",
+   "ig": "https://www.instagram.com/p/DVi4UXgDuE5/",
+   "id": "LP-019"
+  },
+  {
+   "code": "DVgZ4yqDmUV",
+   "date": "2026-03-05",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "diagnosis": {
+     "ru": "Ранее перенёс операцию — без стойкого результата.",
+     "uz": "Avval operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVgZ4yqDmUV.jpg",
+   "thumb": "img/t/DVgZ4yqDmUV.jpg",
+   "ig": "https://www.instagram.com/p/DVgZ4yqDmUV/",
+   "id": "LP-018"
+  },
+  {
+   "code": "DVdqLl5DqCN",
+   "date": "2026-03-04",
+   "area": "ear",
+   "tag": "atresia",
+   "title": {
+    "ru": "Атрезия слухового прохода",
+    "uz": "Eshitish yoʻli atreziyasi"
+   },
+   "proc": {
+    "ru": "каналопластика",
+    "uz": "kanaloplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха, заложенность уха.",
+     "uz": "Eshitish pasayishi, quloq bitishi."
+    },
+    "diagnosis": {
+     "ru": "Атрезия наружного слухового прохода.",
+     "uz": "Tashqi eshitish yoʻli atreziyasi."
+    },
+    "done": {
+     "ru": "Каналопластика — восстановлена проходимость слухового прохода; реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Kanaloplastika — eshitish yoʻli oʻtkazuvchanligi tiklandi; eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVdqLl5DqCN.jpg",
+   "thumb": "img/t/DVdqLl5DqCN.jpg",
+   "ig": "https://www.instagram.com/p/DVdqLl5DqCN/",
+   "id": "LP-017"
+  },
+  {
+   "code": "DVYq3gHir_G",
+   "date": "2026-03-02",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVYq3gHir_G.jpg",
+   "thumb": "img/t/DVYq3gHir_G.jpg",
+   "ig": "https://www.instagram.com/p/DVYq3gHir_G/",
+   "id": "LP-016"
+  },
+  {
+   "code": "DVWE8fOCqxH",
+   "date": "2026-03-01",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DVWE8fOCqxH.mp4",
+   "poster": "media/vp/DVWE8fOCqxH_5.jpg",
+   "thumb": "img/t/DVWE8fOCqxH.jpg",
+   "ig": "https://www.instagram.com/p/DVWE8fOCqxH/",
+   "id": "LP-015"
+  },
+  {
+   "code": "DVJWvWeiucJ",
+   "date": "2026-02-24",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "повторная операция",
+    "uz": "takroriy operatsiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "revision"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Ранее оперирован в Стамбуле — без стойкого результата.",
+     "uz": "Avval Istanbulda operatsiya qilingan — barqaror natija boʻlmagan."
+    },
+    "done": {
+     "ru": "Ревизия барабанной полости, нефункционирующий протез заменён.",
+     "uz": "Nogʻora boʻshligʻi reviziyasi, ishlamayotgan protez almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVJWvWeiucJ.jpg",
+   "thumb": "img/t/DVJWvWeiucJ.jpg",
+   "ig": "https://www.instagram.com/p/DVJWvWeiucJ/",
+   "id": "LP-014"
+  },
+  {
+   "code": "DVEJq1XFxl-",
+   "date": "2026-02-22",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVEJq1XFxl-.jpg",
+   "thumb": "img/t/DVEJq1XFxl-.jpg",
+   "ig": "https://www.instagram.com/p/DVEJq1XFxl-/",
+   "id": "LP-013"
+  },
+  {
+   "code": "DVBi_v9AoGm",
+   "date": "2026-02-21",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, неприятный запах.",
+     "uz": "Bosh ogʻriqlari, noxush hid."
+    },
+    "diagnosis": {
+     "ru": "Пломбировочный материал в верхнечелюстной (гайморовой) пазухе; воспаление пазухи (гайморит).",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida plomba materiali; boʻshliq yalligʻlanishi (gaymorit)."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела через полость носа.",
+     "uz": "Yot jism endoskopik usulda olib tashlandi burun boʻshligʻi orqali."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент не предъявляет прежних жалоб.",
+     "uz": "Operatsiyadan keyin bemorda avvalgi shikoyatlar qayd etilmaydi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DVBi_v9AoGm.jpg",
+   "thumb": "img/t/DVBi_v9AoGm.jpg",
+   "ig": "https://www.instagram.com/p/DVBi_v9AoGm/",
+   "id": "LP-012"
+  },
+  {
+   "code": "DU8TPnnl8eN",
+   "date": "2026-02-19",
+   "area": "ear",
+   "tag": "atresia",
+   "title": {
+    "ru": "Атрезия слухового прохода",
+    "uz": "Eshitish yoʻli atreziyasi"
+   },
+   "proc": {
+    "ru": "каналопластика",
+    "uz": "kanaloplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Атрезия наружного слухового прохода.",
+     "uz": "Tashqi eshitish yoʻli atreziyasi."
+    },
+    "done": {
+     "ru": "Каналопластика — восстановлена проходимость слухового прохода.",
+     "uz": "Kanaloplastika — eshitish yoʻli oʻtkazuvchanligi tiklandi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DU8TPnnl8eN.jpg",
+   "thumb": "img/t/DU8TPnnl8eN.jpg",
+   "ig": "https://www.instagram.com/p/DU8TPnnl8eN/",
+   "id": "LP-011"
+  },
+  {
+   "code": "DU3Ozu1An1w",
+   "date": "2026-02-17",
+   "area": "ear",
+   "tag": "ossicular",
+   "title": {
+    "ru": "Повреждение слуховых косточек",
+    "uz": "Eshitish suyakchalari shikasti"
+   },
+   "proc": {
+    "ru": "оссикулопластика",
+    "uz": "ossikuloplastika"
+   },
+   "origin": {
+    "ru": "Таджикистан",
+    "uz": "Tojikiston",
+    "key": "tj"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; установлен частичный протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; qisman eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DU3Ozu1An1w.mp4",
+   "poster": "media/vp/DU3Ozu1An1w_5.jpg",
+   "thumb": "img/t/DU3Ozu1An1w.jpg",
+   "ig": "https://www.instagram.com/p/DU3Ozu1An1w/",
+   "id": "LP-010"
+  },
+  {
+   "code": "DUqUn-Rk_Jq",
+   "date": "2026-02-12",
+   "area": "nose",
+   "tag": "foreign_body",
+   "title": {
+    "ru": "Инородное тело пазухи",
+    "uz": "Burun boʻshligʻidagi yot jism"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление",
+    "uz": "endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Головные боли, затруднённое носовое дыхание, выделения из носа.",
+     "uz": "Bosh ogʻriqlari, burun orqali nafas olish qiyinligi, burundan ajralma."
+    },
+    "diagnosis": {
+     "ru": "Пломбировочный материал в верхнечелюстной (гайморовой) пазухе.",
+     "uz": "Yuqori jagʻ (gaymor) boʻshligʻida plomba materiali."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление инородного тела через полость носа.",
+     "uz": "Yot jism endoskopik usulda olib tashlandi burun boʻshligʻi orqali."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DUqUn-Rk_Jq.jpg",
+   "thumb": "img/t/DUqUn-Rk_Jq.jpg",
+   "ig": "https://www.instagram.com/p/DUqUn-Rk_Jq/",
+   "id": "LP-009"
+  },
+  {
+   "code": "DUntciNE7z6",
+   "date": "2026-02-10",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки; разрушение наружной стенки аттика.",
+     "uz": "Nogʻora parda teshilishi; attik tashqi devorining yemirilishi."
+    },
+    "done": {
+     "ru": "Реконструкция цепи слуховых косточек; восстановлена барабанная перепонка (тимпанопластика); закрыт дефект аттика.",
+     "uz": "Eshitish suyakchalari zanjiri rekonstruksiyasi; nogʻora parda tiklandi (timpanoplastika); attik nuqsoni yopildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DUntciNE7z6.jpg",
+   "thumb": "img/t/DUntciNE7z6.jpg",
+   "ig": "https://www.instagram.com/p/DUntciNE7z6/",
+   "id": "LP-008"
+  },
+  {
+   "code": "DUiiubmE5Tx",
+   "date": "2026-02-09",
+   "area": "nose",
+   "tag": "septum",
+   "title": {
+    "ru": "Искривление перегородки носа",
+    "uz": "Burun toʻsigʻi qiyshiqligi"
+   },
+   "proc": {
+    "ru": "лазерная септопластика",
+    "uz": "lazerli septoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание.",
+     "uz": "Burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Искривление перегородки носа.",
+     "uz": "Burun toʻsigʻi qiyshiqligi."
+    },
+    "done": {
+     "ru": "Лазерная септопластика.",
+     "uz": "Lazerli septoplastika."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DUiiubmE5Tx.jpg",
+   "thumb": "img/t/DUiiubmE5Tx.jpg",
+   "ig": "https://www.instagram.com/p/DUiiubmE5Tx/",
+   "id": "LP-007"
+  },
+  {
+   "code": "DUdqYdDAsuW",
+   "date": "2026-02-07",
+   "area": "ear",
+   "tag": "cholesteatoma",
+   "title": {
+    "ru": "Холестеатома",
+    "uz": "Xolesteatoma"
+   },
+   "proc": {
+    "ru": "санирующая операция",
+    "uz": "sanatsiya operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Холестеатома среднего уха.",
+     "uz": "Oʻrta quloq xolesteatomasi."
+    },
+    "done": {
+     "ru": "Санирующая операция: холестеатома удалена.",
+     "uz": "Sanatsiya operatsiyasi: xolesteatoma olib tashlandi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациентка отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DUdqYdDAsuW.jpg",
+   "thumb": "img/t/DUdqYdDAsuW.jpg",
+   "ig": "https://www.instagram.com/p/DUdqYdDAsuW/",
+   "id": "LP-006"
+  },
+  {
+   "code": "DUV-NrPDV0v",
+   "date": "2026-02-04",
+   "area": "kids",
+   "tag": "adenoids",
+   "title": {
+    "ru": "Аденоиды",
+    "uz": "Adenoidlar"
+   },
+   "proc": {
+    "ru": "эндоскопическая аденотомия",
+    "uz": "endoskopik adenotomiya"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [
+    "child"
+   ],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание, храп и сон с открытым ртом.",
+     "uz": "Burun orqali nafas olish qiyinligi, xurrak va ogʻiz ochiq holda uxlash."
+    },
+    "diagnosis": {
+     "ru": "Гипертрофия аденоидов III степени.",
+     "uz": "III darajali adenoid gipertrofiyasi."
+    },
+    "done": {
+     "ru": "Эндоскопическое лазерное удаление аденоидов.",
+     "uz": "Adenoidlar endoskopik lazer bilan olib tashlandi."
+    },
+    "note": {
+     "ru": "Состояние в послеоперационном периоде удовлетворительное.",
+     "uz": "Operatsiyadan keyingi holat qoniqarli."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DUV-NrPDV0v.jpg",
+   "thumb": "img/t/DUV-NrPDV0v.jpg",
+   "ig": "https://www.instagram.com/p/DUV-NrPDV0v/",
+   "id": "LP-005"
+  },
+  {
+   "code": "DUOBhPeAodw",
+   "date": "2026-02-01",
+   "area": "ear",
+   "tag": "otosclerosis",
+   "title": {
+    "ru": "Отосклероз",
+    "uz": "Otoskleroz"
+   },
+   "proc": {
+    "ru": "стапедопластика",
+    "uz": "stapedoplastika"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Отосклероз — нарушена подвижность стремечка.",
+     "uz": "Otoskleroz — uzangi suyakchasi harakatchanligi buzilgan."
+    },
+    "done": {
+     "ru": "Стапедопластика: неподвижное стремечко заменено титановым протезом.",
+     "uz": "Stapedoplastika: harakatsiz uzangi suyakchasi titan protez bilan almashtirildi."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": null,
+   "poster": "media/p/DUOBhPeAodw.jpg",
+   "thumb": "img/t/DUOBhPeAodw.jpg",
+   "ig": "https://www.instagram.com/p/DUOBhPeAodw/",
+   "id": "LP-004"
+  },
+  {
+   "code": "DUIy3CNgs8e",
+   "date": "2026-01-30",
+   "area": "ear",
+   "tag": "ear_other",
+   "title": {
+    "ru": "Снижение слуха",
+    "uz": "Eshitish pasayishi"
+   },
+   "proc": {
+    "ru": "операция на среднем ухе",
+    "uz": "oʻrta quloq operatsiyasi"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "done": {
+     "ru": "Установлен протез слуховых косточек; восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Eshitish suyakchasi protezi oʻrnatildi; nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "В раннем послеоперационном периоде пациент отмечает улучшение слуха.",
+     "uz": "Operatsiyadan keyingi erta davrda bemor eshitish yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DUIy3CNgs8e.mp4",
+   "poster": "media/vp/DUIy3CNgs8e_5.jpg",
+   "thumb": "img/t/DUIy3CNgs8e.jpg",
+   "ig": "https://www.instagram.com/p/DUIy3CNgs8e/",
+   "id": "LP-003"
+  },
+  {
+   "code": "DUFMvZXAsvA",
+   "date": "2026-01-29",
+   "area": "nose",
+   "tag": "polyps",
+   "title": {
+    "ru": "Полипы носа",
+    "uz": "Burun poliplari"
+   },
+   "proc": {
+    "ru": "эндоскопическое удаление полипов",
+    "uz": "poliplarni endoskopik olib tashlash"
+   },
+   "origin": null,
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Затруднённое носовое дыхание.",
+     "uz": "Burun orqali nafas olish qiyinligi."
+    },
+    "diagnosis": {
+     "ru": "Полипы полости носа и пазух.",
+     "uz": "Burun boʻshligʻi va boʻshliqlar poliplari."
+    },
+    "done": {
+     "ru": "Эндоскопическое удаление полипов.",
+     "uz": "Poliplar endoskopik olib tashlandi."
+    },
+    "note": {
+     "ru": "В послеоперационном периоде пациент отмечает улучшение носового дыхания.",
+     "uz": "Operatsiyadan keyingi davrda bemor burun orqali nafas yaxshilanganini qayd etadi."
+    }
+   },
+   "video": "media/v/DUFMvZXAsvA.mp4",
+   "poster": "media/vp/DUFMvZXAsvA_5.jpg",
+   "thumb": "img/t/DUFMvZXAsvA.jpg",
+   "ig": "https://www.instagram.com/p/DUFMvZXAsvA/",
+   "id": "LP-002"
+  },
+  {
+   "code": "DUAGpVgAiW4",
+   "date": "2026-01-27",
+   "area": "ear",
+   "tag": "perforation",
+   "title": {
+    "ru": "Перфорация барабанной перепонки",
+    "uz": "Nogʻora parda teshilishi"
+   },
+   "proc": {
+    "ru": "тимпанопластика",
+    "uz": "timpanoplastika"
+   },
+   "origin": {
+    "ru": "Казахстан",
+    "uz": "Qozogʻiston",
+    "key": "kz"
+   },
+   "age": null,
+   "flags": [],
+   "steps": {
+    "complaint": {
+     "ru": "Снижение слуха.",
+     "uz": "Eshitish pasayishi."
+    },
+    "diagnosis": {
+     "ru": "Перфорация барабанной перепонки.",
+     "uz": "Nogʻora parda teshilishi."
+    },
+    "done": {
+     "ru": "Восстановлена барабанная перепонка (тимпанопластика).",
+     "uz": "Nogʻora parda tiklandi (timpanoplastika)."
+    },
+    "note": {
+     "ru": "Контроль через два года после тимпанопластики: по словам пациентки, слышит хорошо.",
+     "uz": "Timpanoplastikadan ikki yil oʻtib nazorat: bemorning soʻzlariga koʻra, yaxshi eshitmoqda."
+    }
+   },
+   "video": "media/v/DUAGpVgAiW4.mp4",
+   "poster": "media/vp/DUAGpVgAiW4_5.jpg",
+   "thumb": "img/t/DUAGpVgAiW4.jpg",
+   "ig": "https://www.instagram.com/p/DUAGpVgAiW4/",
+   "id": "LP-001"
+  }
+ ]
+}
